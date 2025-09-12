@@ -1,5 +1,5 @@
 ---
-title: 'an octopus would'
+title: "an octopus would"
 pubDate: 2010-02-23
 description: 'A poem about an octopus'
 category: "poetry"

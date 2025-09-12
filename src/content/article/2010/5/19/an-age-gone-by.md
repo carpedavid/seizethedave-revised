@@ -1,9 +1,9 @@
 ---
 title: "an age gone by"
-pubDate: "2010-05-19"
+pubDate: 2010-05-19
 description: "an age gone by"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 When I am no longer an age gone by

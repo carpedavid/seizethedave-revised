@@ -1,7 +1,8 @@
 ---
 title: "paper review: rhodia dot pad"
-pubDate: "2010-06-23"
+pubDate: 2010-06-23
 description: "paper review: rhodia dot pad"
+category: "paper-reviews"
 tags:
   - "paper"
   - "paper-reviews"

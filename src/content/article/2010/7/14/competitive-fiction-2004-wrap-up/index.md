@@ -1,7 +1,8 @@
 ---
 title: "competitive fiction 2004 wrap up"
-pubDate: "2010-07-14"
+pubDate: 2010-07-14
 description: "competitive fiction 2004 wrap up"
+category: "post"
 tags:
   - "writing"
 ---

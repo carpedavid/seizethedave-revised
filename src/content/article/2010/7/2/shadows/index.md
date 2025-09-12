@@ -1,9 +1,9 @@
 ---
 title: "shadows"
-pubDate: "2010-07-02"
+pubDate: 2010-07-02
 description: "shadows"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 Loneliness sets in

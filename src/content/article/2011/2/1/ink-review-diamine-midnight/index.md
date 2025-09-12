@@ -1,9 +1,8 @@
 ---
 title: "ink review: diamine midnight"
-pubDate: "2011-02-01"
+pubDate: 2011-02-01
 description: "ink review: diamine midnight"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "diamine"
   - "ink"

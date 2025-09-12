@@ -1,9 +1,8 @@
 ---
 title: "the short story of esmeralda santiago"
-pubDate: "2010-07-23"
+pubDate: 2010-07-23
 description: "the short story of esmeralda santiago"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "writing"
 ---

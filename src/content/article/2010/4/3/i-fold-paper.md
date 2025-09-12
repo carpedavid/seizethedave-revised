@@ -1,9 +1,9 @@
 ---
 title: "i fold paper"
-pubDate: "2010-04-03"
+pubDate: 2010-04-03
 description: "i fold paper"
-categories:
-  - "origami"
+category: "origami"
+tags: []
 ---
 
 ![](paper-1.jpg)

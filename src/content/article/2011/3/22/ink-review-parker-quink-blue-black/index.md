@@ -1,9 +1,8 @@
 ---
 title: "ink review: parker quink blue black"
-pubDate: "2011-03-22"
+pubDate: 2011-03-22
 description: "ink review: parker quink blue black"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "parker"

@@ -1,7 +1,8 @@
 ---
 title: "ink questions"
-pubDate: "2011-08-01"
+pubDate: 2011-08-01
 description: "ink questions"
+category: "post"
 tags:
   - "ink"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "paper review: behance dot grid journal"
-pubDate: "2010-07-07"
+pubDate: 2010-07-07
 description: "paper review: behance dot grid journal"
+category: "post"
 tags:
   - "paper"
   - "paper-reviews"

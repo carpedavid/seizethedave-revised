@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler’s navaho turquoise"
-pubDate: "2010-03-28"
+pubDate: 2010-03-28
 description: "ink review: noodler’s navaho turquoise"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "noodlers"

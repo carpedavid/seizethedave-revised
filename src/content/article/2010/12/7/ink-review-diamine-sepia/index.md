@@ -1,9 +1,8 @@
 ---
 title: "ink review: diamine sepia"
-pubDate: "2010-12-07"
+pubDate: 2010-12-07
 description: "ink review: diamine sepia"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "diamine"
   - "ink"

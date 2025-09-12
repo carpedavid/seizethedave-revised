@@ -1,9 +1,8 @@
 ---
 title: "high cheekbones, nice skin"
-pubDate: "2010-10-07"
+pubDate: 2010-10-07
 description: "high cheekbones, nice skin"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "flash-fiction"
   - "horror"

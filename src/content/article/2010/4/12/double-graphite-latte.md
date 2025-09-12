@@ -1,9 +1,8 @@
 ---
 title: "double graphite latte"
-pubDate: "2010-04-12"
+pubDate: 2010-04-12
 description: "double graphite latte"
-categories:
-  - "art"
+category: "art"
 tags:
   - "sketch"
 ---

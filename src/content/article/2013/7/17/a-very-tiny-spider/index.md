@@ -1,9 +1,8 @@
 ---
 title: "a very tiny spider"
-pubDate: "2013-08-08"
+pubDate: 2013-08-08
 description: "a very tiny spider"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---

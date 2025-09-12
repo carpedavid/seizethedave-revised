@@ -1,7 +1,9 @@
 ---
 title: "how odd"
-pubDate: "2011-08-18"
+pubDate: 2011-08-18
 description: "how odd"
+category: "post"
+tags: []
 ---
 
 I have noticed that, whenever I am away from the site for an extended period of time, my traffic seems to go up. It's an odd behavior that I can't quite explain, but I'm not complaining too much.

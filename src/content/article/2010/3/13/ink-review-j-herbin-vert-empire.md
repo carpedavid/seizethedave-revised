@@ -1,9 +1,8 @@
 ---
 title: "ink review: j. herbin vert empire"
-pubDate: "2010-03-13"
+pubDate: 2010-03-13
 description: "ink review: j. herbin vert empire"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "j-herbin"

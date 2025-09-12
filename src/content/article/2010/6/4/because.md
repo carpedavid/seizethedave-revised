@@ -1,9 +1,8 @@
 ---
 title: "because"
-pubDate: "2010-06-04"
+pubDate: 2010-06-04
 description: "because"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---

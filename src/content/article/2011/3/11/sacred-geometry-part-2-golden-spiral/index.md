@@ -1,9 +1,8 @@
 ---
 title: "sacred geometry, part 2: golden spiral"
-pubDate: "2011-03-11"
+pubDate: 2011-03-11
 description: "sacred geometry, part 2: golden spiral"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "horror"
   - "sacred-geometry"

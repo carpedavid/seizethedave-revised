@@ -1,9 +1,8 @@
 ---
 title: "Midori (Traveler's Company) Traveler's Notebook"
-pubDate: "2016-03-11"
+pubDate: 2016-03-11
 description: "Midori (Traveler's Company) Traveler's Notebook"
-categories:
-  - "paper-reviews"
+category: "paper-reviews"
 tags:
   - "midori"
 ---

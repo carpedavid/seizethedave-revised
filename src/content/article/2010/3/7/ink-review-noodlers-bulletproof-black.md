@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler's bulletproof black"
-pubDate: "2010-03-07"
+pubDate: 2010-03-07
 description: "ink review: noodler's bulletproof black"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "noodlers"

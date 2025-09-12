@@ -1,9 +1,9 @@
 ---
 title: "fog"
-pubDate: "2012-03-09"
+pubDate: 2012-03-09
 description: "ink review: noodler's black revisited..."
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 The fog devours the world today,
@@ -56,4 +56,3 @@ Are gone
 All gone
 Every single one of them
 Devoured by the fog
-

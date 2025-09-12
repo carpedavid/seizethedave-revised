@@ -1,9 +1,8 @@
 ---
 title: "free rent"
-pubDate: "2010-10-15"
+pubDate: 2010-10-15
 description: "free rent"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "horror"
   - "writing"

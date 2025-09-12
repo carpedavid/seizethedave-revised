@@ -1,9 +1,8 @@
 ---
 title: "the life and death of john chrysanthemum, superhero"
-pubDate: "2010-07-14"
+pubDate: 2010-07-14
 description: "the life and death of john chrysanthemum, superhero"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "writing"
 ---

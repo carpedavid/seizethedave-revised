@@ -1,7 +1,8 @@
 ---
 title: "reference inks"
-pubDate: "2011-03-15"
+pubDate: 2011-03-15
 description: "reference inks"
+category: "post"
 tags:
   - "ink"
 ---

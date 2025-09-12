@@ -1,9 +1,8 @@
 ---
 title: "spiders"
-pubDate: "2010-06-28"
+pubDate: 2010-06-28
 description: "spiders"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---

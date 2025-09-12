@@ -1,9 +1,8 @@
 ---
 title: 'an octopus would'
-pubDate: "2010-02-23"
+pubDate: 2010-02-23
 description: 'A poem about an octopus'
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 

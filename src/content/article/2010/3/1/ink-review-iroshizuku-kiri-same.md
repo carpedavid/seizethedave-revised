@@ -1,9 +1,8 @@
 ---
 title: "ink review: iroshizuku kiri same"
-pubDate: "2010-03-01"
+pubDate: 2010-03-01
 description: "ink review: iroshizuku kiri same"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "iroshizuku"

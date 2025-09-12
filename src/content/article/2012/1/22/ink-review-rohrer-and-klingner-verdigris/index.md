@@ -1,9 +1,8 @@
 ---
 title: "ink review: rohrer and klingner verdigris"
-pubDate: "2012-01-22"
+pubDate: 2012-01-22
 description: "ink review: rohrer and klingner verdigris"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "rohrer-and-klingner"
 ---

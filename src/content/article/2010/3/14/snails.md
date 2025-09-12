@@ -1,9 +1,8 @@
 ---
 title: "snails"
-pubDate: "2010-03-14"
+pubDate: 2010-03-14
 description: "snails"
-categories:
-  - "art"
+category: "art"
 tags:
   - "sketch"
 ---

@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler's baystate blue"
-pubDate: "2011-02-22"
+pubDate: 2011-02-22
 description: "ink review: noodler's baystate blue"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "noodlers"

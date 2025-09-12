@@ -1,9 +1,8 @@
 ---
 title: "in my study"
-pubDate: "2010-06-20"
+pubDate: 2010-06-20
 description: "in my study"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "horror"
 ---
@@ -271,4 +270,3 @@ Had come at last – it would not wait.
 I prayed, but would put up no fight –
 
 Not on that dreadful, droomy night.
-

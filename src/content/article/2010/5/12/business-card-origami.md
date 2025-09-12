@@ -1,9 +1,9 @@
 ---
 title: "business card origami"
-pubDate: "2010-05-12"
+pubDate: 2010-05-12
 description: "business card origami"
-categories:
-  - "origami"
+category: "origami"
+tags: []
 ---
 
 ![](business-1.jpg)

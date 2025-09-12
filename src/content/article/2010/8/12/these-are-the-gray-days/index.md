@@ -1,9 +1,9 @@
 ---
 title: "these are the gray days"
-pubDate: "2010-08-12"
+pubDate: 2010-08-12
 description: "these are the gray days"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 These are the gray days,

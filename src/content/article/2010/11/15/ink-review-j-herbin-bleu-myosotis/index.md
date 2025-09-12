@@ -1,9 +1,8 @@
 ---
 title: "ink review: j. herbin bleu myosotis"
-pubDate: "2010-11-15"
+pubDate: 2010-11-15
 description: 'ink review of J. Herbin Bleu Myosotis'
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "j-herbin"

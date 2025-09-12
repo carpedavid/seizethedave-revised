@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler's #41 brown"
-pubDate: "2012-05-20"
+pubDate: 2012-05-20
 description: "ink review: noodler's #41 brown"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "noodlers"
   - "brown-ink"

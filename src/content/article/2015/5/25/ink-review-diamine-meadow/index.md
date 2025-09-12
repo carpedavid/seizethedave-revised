@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Diamine Meadow"
-pubDate: "2015-05-31"
+pubDate: 2015-05-31
 description: "Ink Review: Diamine Meadow"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "diamine"
   - "green-ink"

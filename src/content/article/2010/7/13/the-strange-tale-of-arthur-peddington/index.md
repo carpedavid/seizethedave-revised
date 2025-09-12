@@ -1,9 +1,8 @@
 ---
 title: "the strange tale of arthur peddington"
-pubDate: "2010-07-13"
+pubDate: 2010-07-13
 description: "the strange tale of arthur peddington"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "horror"
   - "writing"

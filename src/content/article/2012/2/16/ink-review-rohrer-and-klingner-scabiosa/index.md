@@ -1,9 +1,8 @@
 ---
 title: "ink review: rohrer and klingner scabiosa"
-pubDate: "2012-02-16"
+pubDate: 2012-02-16
 description: "ink review: rohrer and klingner scabiosa"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "rohrer-and-klingner"

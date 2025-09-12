@@ -1,9 +1,8 @@
 ---
 title: "ink review: j. herbin vert olive"
-pubDate: "2010-06-08"
+pubDate: 2010-06-08
 description: "ink review: j. herbin vert olive"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "j-herbin"

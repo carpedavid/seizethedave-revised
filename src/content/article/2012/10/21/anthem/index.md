@@ -1,9 +1,9 @@
 ---
 title: "anthem"
-pubDate: "2012-10-21"
+pubDate: 2012-10-21
 description: "anthem"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 I am not content to be content. Not today,

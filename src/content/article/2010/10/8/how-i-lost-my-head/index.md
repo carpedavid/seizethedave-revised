@@ -1,9 +1,8 @@
 ---
 title: "how i lost my head"
-pubDate: "2010-10-08"
+pubDate: 2010-10-08
 description: "how i lost my head"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "flash-fiction"
   - "horror"

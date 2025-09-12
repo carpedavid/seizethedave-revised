@@ -1,7 +1,8 @@
 ---
 title: "my favorite inks"
-pubDate: "2010-08-27"
+pubDate: 2010-08-27
 description: "my favorite inks"
+category: "post"
 tags:
   - "ink"
 ---

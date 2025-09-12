@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler's dragon's napalm"
-pubDate: "2011-04-05"
+pubDate: 2011-04-05
 description: "ink review: noodler's dragon's napalm"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "noodlers"

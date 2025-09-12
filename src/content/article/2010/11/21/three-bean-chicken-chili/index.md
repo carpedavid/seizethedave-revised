@@ -1,9 +1,8 @@
 ---
 title: "three bean chicken chili"
-pubDate: "2010-11-21"
+pubDate: 2010-11-21
 description: "three bean chicken chili"
-categories:
-  - "recipe"
+category: "recipes"
 tags:
   - "chili"
   - "food"

@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Kaweco Royal Blue"
-pubDate: "2015-11-24"
+pubDate: 2015-11-24
 description: "Ink Review: Kaweco Royal Blue"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "kaweco"
   - "blue-ink"

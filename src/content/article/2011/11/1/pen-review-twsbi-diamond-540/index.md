@@ -1,9 +1,9 @@
 ---
 title: "pen review: twsbi diamond 540"
-pubDate: "2011-11-01"
+pubDate: 2011-11-01
 description: "pen review: twsbi diamond 540"
-categories:
-  - "pen-reviews"
+category: "pen-reviews"
+tags: ["twsbi"]
 ---
 
 ![](IMG_0380.JPG)

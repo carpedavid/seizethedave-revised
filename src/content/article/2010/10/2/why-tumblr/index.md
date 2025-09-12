@@ -1,7 +1,8 @@
 ---
 title: "why tumblr?"
-pubDate: "2010-10-02"
+pubDate: 2010-10-02
 description: "why tumblr?"
+category: "post"
 tags:
   - "tumblr"
 ---

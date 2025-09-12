@@ -1,9 +1,8 @@
 ---
 title: "ink review: iroshizuku momiji"
-pubDate: "2010-04-28"
+pubDate: 2010-04-28
 description: "ink review: iroshizuku momiji"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "iroshizuku"

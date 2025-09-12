@@ -1,7 +1,9 @@
 ---
 title: "pseudopod"
-pubDate: "2010-11-28"
+pubDate: 2010-11-28
 description: "pseudopod"
+category: "post"
+tags: []
 ---
 
 [![](https://pseudopod.org/wp-content/images/250x250.jpg)](https://pseudopod.org/)

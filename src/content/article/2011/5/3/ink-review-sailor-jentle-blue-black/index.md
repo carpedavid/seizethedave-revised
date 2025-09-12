@@ -1,9 +1,8 @@
 ---
 title: "ink review: sailor jentle blue black"
-pubDate: "2011-05-03"
+pubDate: 2011-05-03
 description: "ink review: sailor jentle blue black"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "sailor"

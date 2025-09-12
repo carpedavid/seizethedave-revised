@@ -1,9 +1,8 @@
 ---
 title: "a conversation with my cat"
-pubDate: "2012-06-22"
+pubDate: 2012-06-22
 description: "a conversation with my cat"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "flash-fiction"
   - "humor"

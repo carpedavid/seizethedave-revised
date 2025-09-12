@@ -1,9 +1,8 @@
 ---
 title: "ink review: diamine oxblood"
-pubDate: "2010-09-14"
+pubDate: 2010-09-14
 description: "ink review: diamine oxblood"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "diamine"
   - "ink"

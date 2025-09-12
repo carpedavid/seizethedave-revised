@@ -1,9 +1,8 @@
 ---
 title: "strange little loops"
-pubDate: "2010-07-12"
+pubDate: 2010-07-12
 description: "strange little loops"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "science-fiction"
   - "writing"

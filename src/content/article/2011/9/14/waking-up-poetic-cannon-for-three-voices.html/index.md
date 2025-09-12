@@ -1,9 +1,9 @@
 ---
 title: "waking up: poetic cannon for three voices"
-pubDate: "2011-09-14"
+pubDate: 2011-09-14
 description: "waking up: poetic cannon for three voices"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 _The three parts are designed to be recited simultaneously. Voice 1 starts, and then each subsequent voice joins after the previous one has repeated once. Voice 3 repeats once, then drops out. Voice 2 drops out after two additional repetitions. Voice one ends with two final repetitions of the verse._

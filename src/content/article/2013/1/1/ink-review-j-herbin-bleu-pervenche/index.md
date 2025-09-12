@@ -1,9 +1,8 @@
 ---
 title: "ink review: j herbin bleu pervenche"
-pubDate: "2013-05-26"
+pubDate: 2013-05-26
 description: "ink review: j herbin bleu pervenche"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "j-herbin"
   - "blue-ink"

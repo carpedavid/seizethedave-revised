@@ -1,9 +1,8 @@
 ---
 title: "ink review: j. herbin 1670"
-pubDate: "2010-05-16"
+pubDate: 2010-05-16
 description: "ink review: j. herbin 1670"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "j-herbin"

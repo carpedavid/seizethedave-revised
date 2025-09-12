@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler’s kung te-cheng"
-pubDate: "2010-07-25"
+pubDate: 2010-07-25
 description: "ink review: noodler’s kung te-cheng"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "noodlers"

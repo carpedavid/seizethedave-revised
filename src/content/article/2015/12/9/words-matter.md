@@ -1,7 +1,9 @@
 ---
 title: "Words Matter"
-pubDate: "2015-12-09"
+pubDate: 2015-12-09
 description: "Words Matter"
+category: "post"
+tags: []
 ---
 
 Words matter. More so than self awareness, tool use, and opposable thumbs, language is the characteristic that best defines humanity. We are a species that has words and knows how to use them: to hurt and to heal, to communicate and confound, to define ourselves and others. On a global scale, wars have been won, lost, and waged over words; religions founded and fractured based on the interpretation of words; cultures cultivated and sustained through the repetition of words.

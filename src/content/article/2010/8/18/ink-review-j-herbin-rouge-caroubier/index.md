@@ -1,9 +1,8 @@
 ---
 title: "ink review: j. herbin rouge caroubier"
-pubDate: "2010-08-18"
+pubDate: 2010-08-18
 description: "ink review: j. herbin rouge caroubier"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "j-herbin"

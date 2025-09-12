@@ -1,7 +1,8 @@
 ---
 title: "black swan, with flex"
-pubDate: "2010-12-14"
+pubDate: 2010-12-14
 description: "black swan, with flex"
+category: "post"
 tags:
   - "ink"
   - "noodlers"

@@ -1,9 +1,8 @@
 ---
 title: "ink review: platinum pigment rose red"
-pubDate: "2011-02-08"
+pubDate: 2011-02-08
 description: "ink review: platinum pigment rose red"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "pigment"

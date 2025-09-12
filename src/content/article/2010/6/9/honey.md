@@ -1,9 +1,9 @@
 ---
 title: "honey"
-pubDate: "2010-06-09"
+pubDate: 2010-06-09
 description: "honey"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 If bees built bombs and not honey,

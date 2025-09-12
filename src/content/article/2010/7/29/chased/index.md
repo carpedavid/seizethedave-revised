@@ -1,9 +1,9 @@
 ---
 title: "chased"
-pubDate: "2010-07-29"
+pubDate: 2010-07-29
 description: "chased"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 I am chased,

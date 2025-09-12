@@ -1,9 +1,8 @@
 ---
 title: "chili haiku"
-pubDate: "2010-11-19"
+pubDate: 2010-11-19
 description: "chili haiku"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "haiku"
 ---

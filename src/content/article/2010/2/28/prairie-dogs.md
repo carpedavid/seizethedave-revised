@@ -1,9 +1,8 @@
 ---
 title: "prairie dogs"
-pubDate: "2010-02-28"
+pubDate: 2010-02-28
 description: "prairie dogs"
-categories:
-  - "art"
+category: "art"
 tags:
   - "sketch"
 ---

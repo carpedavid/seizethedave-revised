@@ -1,7 +1,9 @@
 ---
 title: "World Building: Silver City Chronicles"
-pubDate: "2018-09-27"
+pubDate: 2018-09-27
+category: "world-building"
 description: "World Building: Silver City Chronicles"
+tags: []
 ---
 
 Silver City Chronicles combines the feel of the wild-west with traditional fantasy elements, high-energy action, and a tinge of dark horror. It takes place in and around a fictional town known as Silver City, which can be easily placed in a historical west that never was, or in any fantasy world where gunpowder and steam power exist.

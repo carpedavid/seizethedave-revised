@@ -1,9 +1,9 @@
 ---
 title: "origami box"
-pubDate: "2010-04-25"
+pubDate: 2010-04-25
 description: "origami box"
-categories:
-  - "origami"
+category: "origami"
+tags: []
 ---
 
 ![](box-1.jpg)

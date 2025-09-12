@@ -1,9 +1,8 @@
 ---
 title: "beware!"
-pubDate: "2010-03-23"
+pubDate: 2010-03-23
 description: "beware!"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---

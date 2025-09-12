@@ -1,9 +1,8 @@
 ---
 title: "ink review: diamine registrar’s ink"
-pubDate: "2010-09-03"
+pubDate: 2010-09-03
 description: "ink review: diamine registrar’s ink"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "diamine"
   - "ink"

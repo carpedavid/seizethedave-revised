@@ -1,7 +1,9 @@
 ---
 title: "upcoming reviews"
-pubDate: "2011-01-24"
+pubDate: 2011-01-24
 description: "upcoming reviews"
+category: "post"
+tags: []
 ---
 
 I've got quite a few things on my list to review here at Seize the Dave, including:

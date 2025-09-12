@@ -1,7 +1,9 @@
 ---
 title: "top ten reviews of 2010"
-pubDate: "2011-01-06"
+pubDate: 2011-01-06
 description: "top ten reviews of 2010"
+category: "post"
+tags: []
 ---
 
 Ah, the new year. It always prompts a retrospective of the previous year, and here at Seize the Dave, I am feeling retrospective. Therefore, I've taken a look at Google Analytics, and compiled a list of the the top ten most visited reviews of 2010. In order, they were:

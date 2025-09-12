@@ -1,9 +1,8 @@
 ---
 title: "sacred geometry, part 6"
-pubDate: "2011-09-30"
+pubDate: 2011-09-30
 description: "sacred geometry, part 6"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "horror"
   - "sacred-geometry"

@@ -1,9 +1,8 @@
 ---
 title: "walrus"
-pubDate: "2010-05-26"
+pubDate: 2010-05-26
 description: "walrus"
-categories:
-  - "art"
+category: "art"
 tags:
   - "sketch"
 ---

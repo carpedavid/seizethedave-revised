@@ -1,9 +1,9 @@
 ---
 title: "echocardiogram"
-pubDate: "2010-07-27"
+pubDate: 2010-07-27
 description: "echocardiogram"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 When they look inside of me,

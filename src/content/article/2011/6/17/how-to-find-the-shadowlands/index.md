@@ -1,9 +1,8 @@
 ---
 title: "how to find the shadowlands"
-pubDate: "2011-06-17"
+pubDate: 2011-06-17
 description: "how to find the shadowlands"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "flash-fiction"
   - "writing"
@@ -22,4 +21,3 @@ Place your left hand on the trunk of the tree, and then walk around it backwards
 At this point, you might notice that the trees sway against the wind, as if determined to display their independence from the spirits of the air. You may hear the roar of beasts in a timbre that you have previously only heard in dreams. You will be safe as you walk along this leaf-covered path, but be sure not to stray, for out in the shadows, in the darkest recesses of the wood, lie creatures that even the Night Things fear.
 
 Continue down this path until just after sunset, and you will reach the edge of the wood. When you peer out from beneath the canopy of the forest, you will see, nestled in the valley before you, your destination - the goblin city of Ix, with its ten thousand smokestacks silhouetted against the starry night sky.
-

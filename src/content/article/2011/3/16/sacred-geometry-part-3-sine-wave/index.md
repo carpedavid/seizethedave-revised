@@ -1,9 +1,8 @@
 ---
 title: "sacred geometry, part 3: sine wave"
-pubDate: "2011-03-18"
+pubDate: 2011-03-18
 description: "sacred geometry, part 3: sine wave"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "flash-fiction"
   - "horror"

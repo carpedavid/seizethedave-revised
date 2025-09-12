@@ -1,7 +1,9 @@
 ---
 title: "Remember to breathe"
-pubDate: "2020-09-14"
+pubDate: 2020-09-14
+category: "post"
 description: "Remember to breathe"
+tags: []
 ---
 
 ![IMG_3196.png](IMG_3196.png)

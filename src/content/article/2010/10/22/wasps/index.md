@@ -1,9 +1,8 @@
 ---
 title: "wasps"
-pubDate: "2010-10-22"
+pubDate: 2010-10-22
 description: "wasps"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "flash-fiction"
   - "horror"

@@ -1,9 +1,8 @@
 ---
 title: "pen review: platinum carbon desk pen"
-pubDate: "2012-07-29"
+pubDate: 2012-07-29
 description: "pen review: platinum carbon desk pen"
-categories:
-  - "pen-reviews"
+category: "pen-reviews"
 tags:
   - "platinum"
 ---

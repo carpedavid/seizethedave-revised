@@ -1,7 +1,8 @@
 ---
 title: "competitive fiction wrap-up, part II"
-pubDate: "2010-07-23"
+pubDate: 2010-07-23
 description: "competitive fiction wrap-up, part II"
+category: "post"
 tags:
   - "writing"
 ---

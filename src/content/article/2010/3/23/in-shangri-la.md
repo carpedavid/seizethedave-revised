@@ -1,9 +1,8 @@
 ---
 title: "in shangri-la"
-pubDate: "2010-03-23"
+pubDate: 2010-03-23
 description: "in shangri-la"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---

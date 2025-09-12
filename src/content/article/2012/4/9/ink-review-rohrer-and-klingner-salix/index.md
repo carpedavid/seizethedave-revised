@@ -1,9 +1,8 @@
 ---
 title: "ink review: rohrer and klingner salix"
-pubDate: "2012-04-09"
+pubDate: 2012-04-09
 description: "ink review: rohrer and klingner salix"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "rohrer-and-klingner"

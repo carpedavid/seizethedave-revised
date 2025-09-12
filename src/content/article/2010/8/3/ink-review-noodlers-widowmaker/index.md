@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler’s widowmaker"
-pubDate: "2010-08-03"
+pubDate: 2010-08-03
 description: "ink review: noodler’s widowmaker"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "noodlers"

@@ -1,9 +1,8 @@
 ---
 title: "ink review: j. herbin cafe des isles"
-pubDate: "2010-03-22"
+pubDate: 2010-03-22
 description: "ink review: j. herbin cafe des isles"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "j-herbin"
   - "brown-ink"

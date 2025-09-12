@@ -1,7 +1,8 @@
 ---
 title: "where ideas come from"
-pubDate: "2010-06-02"
+pubDate: 2010-06-02
 description: "where ideas come from"
+category: "post"
 tags:
   - "writing"
 ---

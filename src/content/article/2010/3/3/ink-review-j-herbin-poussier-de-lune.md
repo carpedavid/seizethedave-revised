@@ -1,9 +1,8 @@
 ---
 title: "ink review: j. herbin poussiere de lune"
-pubDate: "2010-03-03"
+pubDate: 2010-03-03
 description: "ink review: j. herbin poussiere de lune"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "j-herbin"

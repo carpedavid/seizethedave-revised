@@ -1,9 +1,8 @@
 ---
 title: "haiku regarding my dinner"
-pubDate: "2010-04-06"
+pubDate: 2010-04-06
 description: "haiku regarding my dinner"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "haiku"
 ---

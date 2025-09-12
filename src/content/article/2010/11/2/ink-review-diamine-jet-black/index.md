@@ -1,9 +1,8 @@
 ---
 title: "ink review: diamine jet black"
-pubDate: "2010-11-02"
+pubDate: 2010-11-02
 description: "ink review: diamine jet black"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "diamine"
   - "ink"

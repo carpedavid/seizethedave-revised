@@ -1,9 +1,8 @@
 ---
 title: "more cranes"
-pubDate: "2013-02-26"
+pubDate: 2013-02-26
 description: "more cranes"
-categories:
-  - "origami"
+category: "origami"
 tags:
   - "crane"
 ---

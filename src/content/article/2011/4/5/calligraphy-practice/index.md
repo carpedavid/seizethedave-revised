@@ -1,7 +1,8 @@
 ---
 title: "calligraphy practice"
-pubDate: "2011-04-05"
+pubDate: 2011-04-05
 description: "calligraphy practice"
+category: "post"
 tags:
   - "calligraphy"
 ---

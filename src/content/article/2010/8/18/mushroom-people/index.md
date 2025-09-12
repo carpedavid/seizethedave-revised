@@ -1,9 +1,8 @@
 ---
 title: "mushroom people"
-pubDate: "2010-08-18"
+pubDate: 2010-08-18
 description: "mushroom people"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---

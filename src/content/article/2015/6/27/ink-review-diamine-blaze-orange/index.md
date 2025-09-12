@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Diamine Blaze Orange"
-pubDate: "2015-09-14"
+pubDate: 2015-09-14
 description: "Ink Review: Diamine Blaze Orange"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "diamine"
   - "orange-ink"

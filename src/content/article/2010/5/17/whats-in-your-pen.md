@@ -1,7 +1,9 @@
 ---
 title: "what’s in your pen?"
-pubDate: "2010-05-17"
+pubDate: 2010-05-17
 description: "what’s in your pen?"
+category: "post"
+tags: []
 ---
 
 In a recent post, Inkophile discusses what’s in [her current rotation of fountain pens](http://inkophile.wordpress.com/2010/05/17/variety-makes-writing-spicy/). Having just received an order of ink from JetPens, now is a good time to clean things out in my collection.

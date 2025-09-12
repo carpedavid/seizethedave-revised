@@ -1,9 +1,8 @@
 ---
 title: "ink review: diamine red dragon"
-pubDate: "2010-09-07"
+pubDate: 2010-09-07
 description: "ink review: diamine red dragon"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "diamine"
   - "ink"

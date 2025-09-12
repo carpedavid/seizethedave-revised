@@ -1,9 +1,8 @@
 ---
 title: "ink review: j. herbin orange indien"
-pubDate: "2010-05-29"
+pubDate: 2010-05-29
 description: "ink review: j. herbin orange indien"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "j-herbin"

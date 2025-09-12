@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler's black revisited..."
-pubDate: "2012-03-24"
+pubDate: 2012-03-24
 description: "ink review: noodler's black revisited..."
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "noodlers"

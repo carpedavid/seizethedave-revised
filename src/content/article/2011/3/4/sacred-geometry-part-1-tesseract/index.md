@@ -1,9 +1,8 @@
 ---
 title: "sacred geometry, part 1: tesseract"
-pubDate: "2011-03-04"
+pubDate: 2011-03-04
 description: "sacred geometry, part 1: tesseract"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "horror"
   - "sacred-geometry"

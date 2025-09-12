@@ -1,11 +1,9 @@
 ---
 title: "The Old Gods Still Watch Over Us"
-pubDate: "2014-06-27"
+pubDate: 2014-06-27
 description: "The Old Gods Still Watch Over Us"
-categories:
-  - "photos"
-tags:
-  - "photography"
+category: "photos"
+tags: []
 ---
 
 ![Cleveland Botanical Gardens, 21 June, 2014](old-gods.jpg)

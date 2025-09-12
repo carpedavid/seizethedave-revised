@@ -1,9 +1,8 @@
 ---
 title: "a very tiny kangaroo"
-pubDate: "2010-05-11"
+pubDate: 2010-05-11
 description: "a very tiny kangaroo"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---

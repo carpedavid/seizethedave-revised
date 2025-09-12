@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Noodler's Lexington Gray"
-pubDate: "2015-09-28"
+pubDate: 2015-09-28
 description: "Ink Review: Noodler's Lexington Gray"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "noodlers"
   - "gray-ink"

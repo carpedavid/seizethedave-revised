@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Noodler’s 54th Massachusetts"
-pubDate: "2018-07-28"
+pubDate: 2018-07-28
+category: "ink-reviews"
 description: "Ink Review: Noodler’s 54th Massachusetts"
-categories:
-  - "ink-reviews"
 tags:
   - "noodlers"
   - "blue-black-ink"

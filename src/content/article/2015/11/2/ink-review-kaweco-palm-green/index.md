@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Kaweco Palm Green"
-pubDate: "2016-03-09"
+pubDate: 2016-03-09
 description: "Ink Review: Kaweco Palm Green"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "kaweco"
   - "green-ink"

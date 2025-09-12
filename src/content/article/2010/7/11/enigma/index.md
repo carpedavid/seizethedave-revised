@@ -1,9 +1,9 @@
 ---
 title: "enigma"
-pubDate: "2010-07-11"
+pubDate: 2010-07-11
 description: "enigma"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 The door is locked,

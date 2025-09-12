@@ -1,9 +1,9 @@
 ---
 title: "i do not fear the winter time"
-pubDate: "2010-06-18"
+pubDate: 2010-06-18
 description: "i do not fear the winter time"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 I do not fear the winter time –

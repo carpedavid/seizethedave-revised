@@ -1,7 +1,8 @@
 ---
 title: "halloween horror story round-up"
-pubDate: "2010-10-31"
+pubDate: 2010-10-31
 description: "halloween horror story round-up"
+category: "post"
 tags:
   - "writing"
 ---

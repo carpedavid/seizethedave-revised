@@ -1,9 +1,9 @@
 ---
 title: "cats"
-pubDate: "2011-10-14"
+pubDate: 2011-10-14
 description: "cats"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 Three cats cried out

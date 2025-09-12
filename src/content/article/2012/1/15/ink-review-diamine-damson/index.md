@@ -1,9 +1,8 @@
 ---
 title: "ink review: diamine damson"
-pubDate: "2012-01-15"
+pubDate: 2012-01-15
 description: "ink review: diamine damson"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "diamine"
   - "ink"

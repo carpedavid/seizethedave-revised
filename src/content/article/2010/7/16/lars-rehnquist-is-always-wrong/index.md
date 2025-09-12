@@ -1,9 +1,8 @@
 ---
 title: "lars rehnquist is always wrong"
-pubDate: "2010-07-16"
+pubDate: 2010-07-16
 description: "lars rehnquist is always wrong"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "flash-fiction"
   - "humor"

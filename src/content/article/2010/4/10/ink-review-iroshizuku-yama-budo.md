@@ -1,9 +1,8 @@
 ---
 title: "ink review: iroshizuku yama-budo"
-pubDate: "2010-04-10"
+pubDate: 2010-04-10
 description: "ink review: iroshizuku yama-budo"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "iroshizuku"

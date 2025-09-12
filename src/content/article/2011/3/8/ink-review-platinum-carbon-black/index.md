@@ -1,9 +1,8 @@
 ---
 title: "ink review: platinum carbon black"
-pubDate: "2011-03-08"
+pubDate: 2011-03-08
 description: "ink review: platinum carbon black"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "platinum"

@@ -1,9 +1,8 @@
 ---
 title: "ink review: pelikan blue black"
-pubDate: "2010-09-21"
+pubDate: 2010-09-21
 description: "ink review: pelikan blue black"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "pelikan"

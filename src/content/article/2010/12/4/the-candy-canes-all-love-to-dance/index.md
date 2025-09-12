@@ -1,9 +1,8 @@
 ---
 title: "the candy canes all love to dance"
-pubDate: "2010-12-04"
+pubDate: 2010-12-04
 description: "the candy canes all love to dance"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---
@@ -23,4 +22,3 @@ You only have to say,
 "Oh, candy canes, please sing a song
 
 For me this Christmas day."
-

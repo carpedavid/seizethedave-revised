@@ -1,11 +1,11 @@
 ---
 title: "paper review: ecosystem notebook"
-pubDate: "2010-06-13"
+pubDate: 2010-06-13
 description: "paper review: ecosystem notebook"
+category: "paper-reviews"
 tags:
   - "ecosystem"
   - "paper"
-  - "paper-reviews"
 ---
 
 Rating: 4.5

@@ -1,9 +1,8 @@
 ---
 title: "a late aubade"
-pubDate: "2010-07-20"
+pubDate: 2010-07-20
 description: "a late aubade"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "urban-fantasy"
   - "writing"

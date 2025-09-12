@@ -1,9 +1,9 @@
 ---
 title: "pen review: visconti homo sapiens"
-pubDate: "2011-11-20"
+pubDate: 2011-11-20
 description: "pen review: visconti homo sapiens"
-categories:
-  - "pen-reviews"
+category: "pen-reviews"
+tags: ["visconti"]
 ---
 
 Let me start by stating that the Visconti Homo Sapiens is the nicest pen I own, hands down. It's been on my "to covet" list for a while, and I decided to treat myself recently, as a reward for a promotion at work.

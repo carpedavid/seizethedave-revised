@@ -1,7 +1,9 @@
 ---
 title: "Cappuccino Art"
-pubDate: "2018-01-27"
+pubDate: 2018-01-27
+category: "post"
 description: "Cappuccino Art"
+tags: []
 ---
 
 I realize I’m about a decade late to the party, but I’ve been frequenting indie coffee shops lately, and become enamored of the presentation of my cappuccino.

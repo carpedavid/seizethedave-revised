@@ -1,7 +1,9 @@
 ---
 title: "de-adified"
-pubDate: "2011-05-12"
+pubDate: 2011-05-12
 description: "de-adified"
+category: "post"
+tags: []
 ---
 
 Ah, that's much better. I have removed ads from Seize the Dave. I originally added them to the site because I wanted to get a feel for how they worked. I don't have to work with them in my day job, but I have to work with the people who work with them - so a working knowledge helps me be conversant. I figured that if they contributed to the general ink fund, it would be a nice benefit. They haven't.

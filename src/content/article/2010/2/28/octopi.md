@@ -1,9 +1,8 @@
 ---
 title: "octopi"
-pubDate: "2010-02-28"
+pubDate: 2010-02-28
 description: "octopi"
-categories:
-  - "art"
+category: "art"
 tags:
   - "sketch"
 ---

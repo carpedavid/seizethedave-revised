@@ -1,9 +1,8 @@
 ---
 title: "the animal ball"
-pubDate: "2010-03-14"
+pubDate: 2010-03-14
 description: "the animal ball"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---

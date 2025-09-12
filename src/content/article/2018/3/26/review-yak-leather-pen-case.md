@@ -1,7 +1,9 @@
 ---
 title: "Review: Yak Leather Pen Case"
-pubDate: "2018-03-27"
+pubDate: 2018-03-27
+category: "reviews"
 description: "Review: Yak Leather Pen Case"
+tags: []
 ---
 
 ![Case 1](case1.jpg)

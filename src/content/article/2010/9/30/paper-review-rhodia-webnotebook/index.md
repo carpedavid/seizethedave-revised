@@ -1,11 +1,11 @@
 ---
 title: "paper review: rhodia webnotebook"
-pubDate: "2010-09-30"
+pubDate: 2010-09-30
 description: "paper review: rhodia webnotebook"
+category: "paper-reviews"
 tags:
-  - "paper"
-  - "paper-reviews"
   - "rhodia"
+  - "paper"
 ---
 
 Rating: 5.0

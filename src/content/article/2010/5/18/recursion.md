@@ -1,9 +1,8 @@
 ---
 title: "recursion"
-pubDate: "2010-05-18"
+pubDate: 2010-05-18
 description: "recursion"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "haiku"
 ---

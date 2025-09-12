@@ -1,9 +1,8 @@
 ---
 title: "tasty tasty rum drink"
-pubDate: "2011-07-22"
+pubDate: 2011-07-22
 description: "tasty tasty rum drink"
-categories:
-  - "recipe"
+category: "recipes"
 tags:
   - "cocktails"
 ---

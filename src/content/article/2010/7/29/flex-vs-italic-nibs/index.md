@@ -1,7 +1,8 @@
 ---
 title: "flex vs. italic nibs"
-pubDate: "2010-07-29"
+pubDate: 2010-07-29
 description: "flex vs. italic nibs"
+category: "post"
 tags:
   - "calligraphy"
   - "ink"

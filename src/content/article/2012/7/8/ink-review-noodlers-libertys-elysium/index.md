@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler's liberty's elysium"
-pubDate: "2012-07-08"
+pubDate: 2012-07-08
 description: "ink review: noodler's liberty's elysium"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "noodlers"

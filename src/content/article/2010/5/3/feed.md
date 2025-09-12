@@ -1,9 +1,9 @@
 ---
 title: "feed"
-pubDate: "2010-05-03"
+pubDate: 2010-05-03
 description: "feed"
-categories:
-  - "book-reviews"
+category: "book-reviews"
+tags: ["horror"]
 ---
 
 [FEED](http://www.amazon.com/gp/product/0316081051?ie=UTF8&tag=seizethedav0c-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0316081051) is a book about living with zombies. More precisely, it is about living in a near future where zombies have appeared and the world has entered into an uneasy equilibrium with them. The protagonists are young bloggers who are chosen to cover a presidential campaign; for them, the break that propels them into the big leagues - and a step up from poking zombies with sticks on camera.

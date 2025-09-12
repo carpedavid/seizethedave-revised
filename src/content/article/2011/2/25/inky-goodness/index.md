@@ -1,7 +1,8 @@
 ---
 title: "inky goodness"
-pubDate: "2011-02-25"
+pubDate: 2011-02-25
 description: "inky goodness"
+category: "post"
 tags:
   - "ink"
 ---

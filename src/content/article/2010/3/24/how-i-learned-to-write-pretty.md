@@ -1,7 +1,8 @@
 ---
 title: "how I learned to write pretty"
-pubDate: "2010-03-24"
+pubDate: 2010-03-24
 description: "how I learned to write pretty"
+category: "post"
 tags:
   - "calligraphy"
 ---

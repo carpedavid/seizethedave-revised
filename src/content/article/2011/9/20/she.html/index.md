@@ -1,9 +1,8 @@
 ---
 title: "she"
-pubDate: "2011-09-21"
+pubDate: 2011-09-21
 description: "she"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "horror"
   - "urban-fantasy"

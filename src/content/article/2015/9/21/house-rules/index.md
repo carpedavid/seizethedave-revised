@@ -1,9 +1,9 @@
 ---
 title: "House Rules"
-pubDate: "2015-09-21"
+pubDate: 2015-09-21
 description: "House Rules"
-categories:
-  - "short-stories"
+category: "short-stories"
+tags: ["humor"]
 ---
 
 Hello guest,

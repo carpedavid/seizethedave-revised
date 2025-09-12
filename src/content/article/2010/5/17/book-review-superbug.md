@@ -1,9 +1,8 @@
 ---
 title: "book review: superbug"
-pubDate: "2010-05-17"
+pubDate: 2010-05-17
 description: "book review: superbug"
-categories:
-  - "book-reviews"
+category: "book-reviews"
 tags:
   - "books"
 ---

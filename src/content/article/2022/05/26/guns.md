@@ -1,7 +1,9 @@
 ---
 title: "Guns"
-pubDate: 2022-05-26T13:47:06-04:00
+pubDate: 2022-05-26
+category: "post"
 description: "Guns"
+tags: []
 ---
 
 For a very long time, I've favored sensible gun regulations, but not outright bans. Let's make sure we prevent senseless tragedies, but still protect the rights of responsible gun owners. "Keep gun out of the hands of bad guys, but in the hands of good guys," to risk dangerously oversimplifying the message.

@@ -1,9 +1,9 @@
 ---
 title: "a birthday poem…"
-pubDate: "2010-10-05"
+pubDate: 2010-10-05
 description: "a birthday poem…"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 The monsters wake upon this day

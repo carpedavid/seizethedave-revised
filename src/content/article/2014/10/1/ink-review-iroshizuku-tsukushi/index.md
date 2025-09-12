@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Iroshizuku Tsukushi"
-pubDate: "2014-10-01"
+pubDate: 2014-10-01
 description: "Ink Review: Iroshizuku Tsukushi"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "iroshizuku"
   - "brown-ink"

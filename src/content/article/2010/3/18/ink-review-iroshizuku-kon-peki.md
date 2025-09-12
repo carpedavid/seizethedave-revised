@@ -1,9 +1,8 @@
 ---
 title: "ink review: iroshizuku kon peki"
-pubDate: "2010-03-18"
+pubDate: 2010-03-18
 description: "ink review: iroshizuku kon peki"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "iroshizuku"

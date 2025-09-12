@@ -1,7 +1,9 @@
 ---
 title: "best of friday flash, volume 2"
-pubDate: "2012-10-31"
+pubDate: 2012-10-31
 description: "best of friday flash, volume 2"
+category: "post"
+tags: []
 ---
 
 I'm happy to announce that a short story of mine, [Wasps](/blog/2010/10/22/wasps), has been published in the newly released anthology, Best of Friday Flash, Volume 2.

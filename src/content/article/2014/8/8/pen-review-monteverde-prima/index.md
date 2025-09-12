@@ -1,9 +1,9 @@
 ---
 title: "Pen Review: Monteverde Prima"
-pubDate: "2014-08-24"
+pubDate: 2014-08-24
 description: "Pen Review: Monteverde Prima"
-categories:
-  - "pen-reviews"
+category: "pen-reviews"
+tags: ["monteverde"]
 ---
 
 ![image.jpg](hero.jpg)

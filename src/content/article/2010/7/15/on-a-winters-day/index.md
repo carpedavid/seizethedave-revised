@@ -1,9 +1,9 @@
 ---
 title: "on a winter’s day"
-pubDate: "2010-07-15"
+pubDate: 2010-07-15
 description: "on a winter’s day"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 On a winter’s day

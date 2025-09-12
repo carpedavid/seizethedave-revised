@@ -1,9 +1,8 @@
 ---
 title: "sacred geometry, part 4: vesica piscis"
-pubDate: "2011-04-01"
+pubDate: 2011-04-01
 description: "sacred geometry, part 4: vesica piscis"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "sacred-geometry"
 ---

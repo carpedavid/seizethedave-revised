@@ -1,7 +1,9 @@
 ---
 title: "Why I write..."
-pubDate: "2015-09-16"
+pubDate: 2015-09-16
 description: "Why I write..."
+category: "post"
+tags: []
 ---
 
 So many things make me happy: the smell of mulled cider drifting through the house on a cool autumn night, the taste of slightly smoky single malt scotch, the quiet tick of a mechanical watch held close to the ear, the second movement of Beethoven's seventh symphony. Unfortunately, many of these things that bring me happiness are fleeting – eventually the bottle runs dry, the symphony ends, and the autumn leaves give way to a bright, white cocoon.

@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler’s shah’s rose"
-pubDate: "2010-05-10"
+pubDate: 2010-05-10
 description: "ink review: noodler’s shah’s rose"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "noodlers"

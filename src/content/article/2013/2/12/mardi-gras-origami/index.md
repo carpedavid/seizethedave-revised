@@ -1,9 +1,9 @@
 ---
 title: "mardi gras origami"
-pubDate: "2013-02-12"
+pubDate: 2013-02-12
 description: "mardi gras origami"
-categories:
-  - "origami"
+category: "origami"
+tags: []
 ---
 
 Three origami cranes, in celebration of Mardi Gras.

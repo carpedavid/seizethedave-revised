@@ -1,9 +1,9 @@
 ---
 title: "friday the 13th"
-pubDate: "2010-08-13"
+pubDate: 2010-08-13
 description: "friday the 13th"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 May all your paths

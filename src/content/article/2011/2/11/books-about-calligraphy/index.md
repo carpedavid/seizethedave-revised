@@ -1,7 +1,8 @@
 ---
 title: "books about calligraphy"
-pubDate: "2011-02-11"
+pubDate: 2011-02-11
 description: "books about calligraphy"
+category: "post"
 tags:
   - "calligraphy"
 ---

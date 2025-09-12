@@ -1,9 +1,8 @@
 ---
 title: "goliath and me"
-pubDate: "2010-04-02"
+pubDate: 2010-04-02
 description: "goliath and me"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---
@@ -27,4 +26,3 @@ Goliath and I would be best friends
 And best friends forever we’d be
 As everyone knows, other friends come and go
 But Goliath would always love me
-

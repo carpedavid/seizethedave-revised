@@ -1,10 +1,10 @@
 ---
 title: "paper review: moleskine cahier"
-pubDate: "2011-12-05"
+pubDate: 2011-12-05
 description: "paper review: moleskine cahier"
+category: "paper-reviews"
 tags:
   - "moleskine"
-  - "paper-reviews"
 ---
 
 Amongst fountain pen aficionados, Moleskine is known primarily for the inconsistency of their paper. For a long time, I'd had pretty good experiences with Moleskines and fountain pens, especially as someone who favors dry-writing, narrow nibs. While I've switched to Rhodia notebooks for most of my personal writing, I'm still using extra-large Moleskine Cahiers at work. The 7.5 by 10 inch, cardboard-covered notebooks provide great value for the money: a three pack of the extra-large cahiers, each with 120 pages, runs about $19 online.

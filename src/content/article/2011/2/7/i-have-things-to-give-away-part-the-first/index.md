@@ -1,7 +1,8 @@
 ---
 title: "i have things to give away, part the first"
-pubDate: "2011-02-07"
+pubDate: 2011-02-07
 description: "i have things to give away, part the first"
+category: "post"
 tags:
   - "contest"
   - "ink"

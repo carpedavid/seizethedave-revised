@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Noodler's Ink Berning Red"
-pubDate: "2016-06-03"
+pubDate: 2016-06-03
 description: "Ink Review: Noodler's Ink Berning Red"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "noodlers"
   - "red-ink"

@@ -1,9 +1,9 @@
 ---
 title: "paper review: quo vadis habana"
-pubDate: "2010-08-10"
+pubDate: 2010-08-10
 description: "paper review: quo vadis habana"
+category: "paper-reviews"
 tags:
-  - "paper-reviews"
   - "quo-vadis"
 ---
 

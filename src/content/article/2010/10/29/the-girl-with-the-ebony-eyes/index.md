@@ -1,9 +1,8 @@
 ---
 title: "the girl with the ebony eyes"
-pubDate: "2010-10-29"
+pubDate: 2010-10-29
 description: "the girl with the ebony eyes"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "flash-fiction"
   - "horror"

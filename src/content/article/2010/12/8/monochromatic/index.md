@@ -1,9 +1,9 @@
 ---
 title: "monochromatic"
-pubDate: "2010-12-08"
+pubDate: 2010-12-08
 description: "monochromatic"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 I'm monochromatic today

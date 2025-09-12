@@ -1,7 +1,8 @@
 ---
 title: "zoe keating"
-pubDate: "2010-07-02"
+pubDate: 2010-07-02
 description: "zoe keating"
+category: "post"
 tags:
   - "music"
 ---

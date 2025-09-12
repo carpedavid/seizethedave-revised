@@ -1,9 +1,8 @@
 ---
 title: "ink review: pelikan edelstein ruby"
-pubDate: "2010-10-09"
+pubDate: 2010-10-09
 description: "ink review: pelikan edelstein ruby"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "pelikan"

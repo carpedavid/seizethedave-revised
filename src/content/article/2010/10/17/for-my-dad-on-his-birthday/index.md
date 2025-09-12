@@ -1,9 +1,9 @@
 ---
 title: "for my dad, on his birthday"
-pubDate: "2010-10-17"
+pubDate:  2010-10-17
 description: 'a short poem for my dad'
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 The tiny acorn lifts its head
@@ -21,4 +21,3 @@ I’m thankful for you, Dad —
 The greatest tree to strive to be
 
 An acorn ever had
-

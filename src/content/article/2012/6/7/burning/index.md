@@ -1,9 +1,9 @@
 ---
 title: "burning"
-pubDate: "2012-06-07"
+pubDate: 2012-06-07
 description: "burning"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 I would burn for you if you asked me to.
@@ -23,4 +23,3 @@ Who left you bruised and beaten outside and
 Battered and broken inside and
 
 Burning – so brightly burning – all over.
-

@@ -1,9 +1,9 @@
 ---
 title: "the harmony of the spheres"
-pubDate: "2012-09-07"
+pubDate: 2012-09-07
 description: "the harmony of the spheres"
-categories:
-  - "short-stories"
+category: "short-stories"
+tags: ["horror"]
 ---
 
 Melanie fell in love with Xander the moment she saw him. He'd transferred in at the beginning of the semester, and nearly everything about him excited her: his shoulder-length, curly brown hair; his trim, toned body; the way he wore a coat or blazer everywhere he went. And the accent! German by way of Australia. If people swooned nowadays, she would have swooned.

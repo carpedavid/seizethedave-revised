@@ -1,9 +1,8 @@
 ---
 title: "ink review: j. herbin terre de feu"
-pubDate: "2011-01-03"
+pubDate: 2011-01-03
 description: "ink review: j. herbin terre de feu"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "j-herbin"

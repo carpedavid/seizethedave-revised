@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Kaweco Pearl Black"
-pubDate: "2015-11-19"
+pubDate: 2015-11-19
 description: "Ink Review: Kaweco Pearl Black"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "kaweco"
   - "black-ink"

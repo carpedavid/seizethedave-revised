@@ -1,9 +1,9 @@
 ---
 title: "arrhythmia"
-pubDate: "2010-08-10"
+pubDate: 2010-08-10
 description: "arrhythmia"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 My clockwork heart is breaking down,

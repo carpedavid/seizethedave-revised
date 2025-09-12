@@ -1,7 +1,9 @@
 ---
 title: "pajamas in public"
-pubDate: "2010-02-24"
+pubDate: 2010-02-24
 description: 'A short rant about pajamas'
+category: "post"
+tags: []
 ---
 
 As I was driving to work this morning, the people on the radio were discussing the merits of pajama jeans, which, for the unaware, are apparently pajamas that look like jeans.

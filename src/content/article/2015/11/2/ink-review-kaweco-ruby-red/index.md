@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Kaweco Ruby Red"
-pubDate: "2015-12-11"
+pubDate: 2015-12-11
 description: "Ink Review: Kaweco Ruby Red"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "red-ink"
   - "kaweco"

@@ -1,9 +1,8 @@
 ---
 title: "chili limerick"
-pubDate: "2011-11-19"
+pubDate: 2011-11-19
 description: "chili limerick"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "chili"
 ---

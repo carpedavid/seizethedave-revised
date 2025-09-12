@@ -1,9 +1,9 @@
 ---
 title: "modular origami star"
-pubDate: "2010-04-27"
+pubDate: 2010-04-27
 description: "modular origami star"
-categories:
-  - "origami"
+category: "origami"
+tags: []
 ---
 
 ![](star-1.jpg)

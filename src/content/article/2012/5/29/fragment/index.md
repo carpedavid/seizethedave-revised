@@ -1,9 +1,9 @@
 ---
 title: "fragment"
-pubDate: "2012-05-29"
+pubDate: 2012-05-29
 description: "fragment"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 I wish I could fragment myself,
@@ -67,4 +67,3 @@ and to heal themselves and to give of themselves
 so that they might one day, too,
 
 watch after the hearts of others.
-

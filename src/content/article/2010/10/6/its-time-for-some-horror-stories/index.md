@@ -1,7 +1,8 @@
 ---
 title: "it’s time for some horror stories"
-pubDate: "2010-10-06"
+pubDate: 2010-10-06
 description: "it’s time for some horror stories"
+category: "post"
 tags:
   - "writing"
 ---

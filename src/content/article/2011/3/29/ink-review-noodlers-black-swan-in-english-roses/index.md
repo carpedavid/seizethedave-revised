@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler's black swan in english roses"
-pubDate: "2011-03-29"
+pubDate: 2011-03-29
 description: "ink review: noodler's black swan in english roses"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "noodlers"

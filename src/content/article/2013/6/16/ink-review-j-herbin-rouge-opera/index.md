@@ -1,9 +1,8 @@
 ---
 title: "ink review: j. herbin rouge opera"
-pubDate: "2013-06-16"
+pubDate: 2013-06-16
 description: "ink review: j. herbin rouge opera"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "j-herbin"
   - "red-ink"

@@ -1,9 +1,8 @@
 ---
 title: "ink review: lamy blue"
-pubDate: "2010-03-06"
+pubDate: 2010-03-06
 description: "ink review: lamy blue"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "lamy"

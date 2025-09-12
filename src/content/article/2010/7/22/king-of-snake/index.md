@@ -1,9 +1,8 @@
 ---
 title: "king of snake"
-pubDate: "2010-07-22"
+pubDate: 2010-07-22
 description: "king of snake"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "writing"
 ---

@@ -1,9 +1,9 @@
 ---
 title: "i am not afraid to rust"
-pubDate: "2010-09-01"
+pubDate: 2010-09-01
 description: "i am not afraid to rust"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 I am not afraid to rust,
@@ -21,4 +21,3 @@ Like a sock upon the stair –
 Alone, ignored, barely discussed –
 
 Would be more than I could bear.
-

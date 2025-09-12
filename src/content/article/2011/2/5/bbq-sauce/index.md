@@ -1,9 +1,8 @@
 ---
 title: "bbq sauce"
-pubDate: "2011-02-05"
+pubDate: 2011-02-05
 description: "bbq sauce"
-categories:
-  - "recipe"
+category: "recipes"
 tags:
   - "food"
 ---

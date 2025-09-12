@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Iroshizuku Asagao"
-pubDate: "2014-08-03"
+pubDate: 2014-08-03
 description: "Ink Review: Iroshizuku Asagao"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "iroshizuku"
 ---

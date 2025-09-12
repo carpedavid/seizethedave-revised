@@ -1,9 +1,8 @@
 ---
 title: "three, two, one, go"
-pubDate: "2010-07-21"
+pubDate: 2010-07-21
 description: "three, two, one, go"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "science-fiction"
   - "writing"

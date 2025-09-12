@@ -1,9 +1,8 @@
 ---
 title: "the negotiation"
-pubDate: "2010-02-23"
+pubDate: 2010-02-23
 description: 'A short play about bureocracy and ducks.'
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "humor"
   - "writing"

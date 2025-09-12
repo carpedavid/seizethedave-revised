@@ -1,9 +1,8 @@
 ---
 title: "ink review: de atramentis aubergine"
-pubDate: "2012-04-27"
+pubDate: 2012-04-27
 description: "ink review: de atramentis aubergine"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "de-atramentis"
   - "ink"

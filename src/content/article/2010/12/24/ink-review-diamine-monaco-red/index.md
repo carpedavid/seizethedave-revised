@@ -1,9 +1,8 @@
 ---
 title: "ink review: diamine monaco red"
-pubDate: "2010-12-24"
+pubDate: 2010-12-24
 description: "ink review: diamine monaco red"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "diamine"
   - "ink"

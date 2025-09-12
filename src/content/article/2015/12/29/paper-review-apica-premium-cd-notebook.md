@@ -1,9 +1,8 @@
 ---
 title: "Paper Review: Apica Premium CD Notebook"
-pubDate: "2018-08-11"
+pubDate: 2018-08-11
 description: "Paper Review: Apica Premium CD Notebook"
-categories:
-  - "paper-reviews"
+category: "paper-reviews"
 tags:
   - "apica"
 ---

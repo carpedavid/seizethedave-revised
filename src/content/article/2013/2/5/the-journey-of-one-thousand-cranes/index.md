@@ -1,9 +1,9 @@
 ---
 title: "the journey of one thousand cranes"
-pubDate: "2013-02-06"
+pubDate: 2013-02-06
 description: "the journey of one thousand cranes"
-categories:
-  - "origami"
+category: "origami"
+tags: []
 ---
 
 The crane is considered to be the most iconic of all origami models. It's easy to learn and easy enough to fold - and the crane is considered to be a symbol of good luck and longevity. Consequently, a Japanese tradition states that someone who folds one thousand cranes will be granted either good luck or a wish. Traditionally, the [cranes are threaded together](http://en.wikipedia.org/wiki/Thousand_origami_cranes) once they're folded, and then given as gifts or hung in one's own home.

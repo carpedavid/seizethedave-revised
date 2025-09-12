@@ -1,9 +1,9 @@
 ---
 title: "pen review: platinum preppy"
-pubDate: "2011-10-03"
+pubDate: 2011-10-03
 description: "pen review: platinum preppy"
-categories:
-  - "pen-reviews"
+category: "pen-reviews"
+tags: ["platinum"]
 ---
 
 After a year or so of doing pen and ink reviews, I decided that I needed to [establish a set of reference inks](/blog/2011/3/15/reference-inks/) - those inks that I would use to evaluate others against. Once I picked out the colors, I then decided that it would be nice to have pens that I could keep inked wit these reference colors that, presumably, I would be using all of the time. Enter the Platinum Preppy.

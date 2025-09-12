@@ -1,9 +1,9 @@
 ---
 title: "time"
-pubDate: "2010-08-19"
+pubDate: 2010-08-19
 description: "time"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 TIME!

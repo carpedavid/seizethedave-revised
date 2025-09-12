@@ -1,9 +1,8 @@
 ---
 title: "ink review: sailor jentle ultramarine"
-pubDate: "2011-05-31"
+pubDate: 2011-05-31
 description: "ink review: sailor jentle ultramarine"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "sailor"

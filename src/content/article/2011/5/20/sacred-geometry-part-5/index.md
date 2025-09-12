@@ -1,9 +1,8 @@
 ---
 title: "sacred geometry, part 5"
-pubDate: "2011-05-20"
+pubDate: 2011-05-20
 description: "sacred geometry, part 5"
-categories:
-  - "short-stories"
+category: "short-stories"
 tags:
   - "flash-fiction"
   - "sacred-geometry"

@@ -1,7 +1,9 @@
 ---
 title: "Remember to speak"
-pubDate: "2020-11-06"
+pubDate: 2020-11-06
+category: "post"
 description: "Remember to speak"
+tags: []
 ---
 
 This is primarily directed toward my conservative friends and family, but of course anyone is welcome to read it.

@@ -1,7 +1,8 @@
 ---
 title: "You Are the Sprinkles on My Ice Cream"
-pubDate: "2014-09-03"
+pubDate: 2014-09-03
 description: "You Are the Sprinkles on My Ice Cream"
+category: "post"
 tags:
   - "calligraphy"
 ---

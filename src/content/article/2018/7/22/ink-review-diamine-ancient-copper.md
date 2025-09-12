@@ -1,9 +1,8 @@
 ---
 title: "Ink Review: Diamine Ancient Copper"
-pubDate: "2018-07-23"
+pubDate: 2018-07-23
 description: "Ink Review: Diamine Ancient Copper"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "brown-ink"
   - "diamine"

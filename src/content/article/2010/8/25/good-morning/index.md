@@ -1,9 +1,9 @@
 ---
 title: "good morning"
-pubDate: "2010-08-25"
+pubDate: 2010-08-25
 description: "good morning"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 Good morning, pretty sleepyhead.

@@ -1,9 +1,8 @@
 ---
 title: "ink review: rohrer and klingner morinda"
-pubDate: "2011-05-17"
+pubDate: 2011-05-17
 description: "ink review: rohrer and klingner morinda"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "rohrer-and-klingner"

@@ -1,9 +1,8 @@
 ---
 title: "le chat"
-pubDate: "2011-09-09"
+pubDate: 2011-09-09
 description: "le chat"
-categories:
-  - "art"
+category: "art"
 tags:
   - "sketch"
 ---

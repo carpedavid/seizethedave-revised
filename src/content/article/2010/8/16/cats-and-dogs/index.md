@@ -1,9 +1,8 @@
 ---
 title: "cats and dogs"
-pubDate: "2010-08-16"
+pubDate: 2010-08-16
 description: "cats and dogs"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---

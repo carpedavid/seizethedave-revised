@@ -1,11 +1,11 @@
 ---
 title: "paper review: ecosystem sketchbook"
-pubDate: "2011-02-15"
+pubDate: 2011-02-15
 description: "paper review: ecosystem sketchbook"
+category: "paper-reviews"
 tags:
   - "ecosystem"
   - "paper"
-  - "paper-reviews"
 ---
 
 Rating: 4.0

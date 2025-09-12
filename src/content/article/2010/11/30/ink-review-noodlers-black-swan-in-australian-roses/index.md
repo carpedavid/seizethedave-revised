@@ -1,9 +1,8 @@
 ---
 title: "ink review: noodler’s black swan in australian roses"
-pubDate: "2010-11-30"
+pubDate: 2010-11-30
 description: "ink review: noodler’s black swan in australian roses"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "noodlers"

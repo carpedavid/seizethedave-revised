@@ -1,7 +1,9 @@
 ---
 title: "happy birthday, to seize the dave"
-pubDate: "2011-02-23"
+pubDate: 2011-02-23
 description: "happy birthday, to seize the dave"
+category: "post"
+tags: []
 ---
 
 One year ago today, I started Seize the Dave over on tumblr, with a [poem about an octopus](/blog/2010/2/23/an-octopus-would/). Since then, I've written more [poetry](/categories/poetry/) and [short stories](/categories/short-stories/) than I have in all of my prior years combined. I've met lots of awesome people in the pen and paper world and gotten the hang of writing [ink](/categories/ink-reviews/) and [paper reviews](/categories/paper-reviews/). I've participated in the Friday Flash fiction community and I've shared [origami](/categories/origami/) and [sketches](/categories/art/) of snails and walrus bees.

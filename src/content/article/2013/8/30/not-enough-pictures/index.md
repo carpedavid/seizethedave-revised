@@ -1,9 +1,8 @@
 ---
 title: "not enough pictures"
-pubDate: "2013-08-30"
+pubDate: 2013-08-30
 description: "not enough pictures"
-categories:
-  - "photos"
+category: "photos"
 tags:
   - "flowers"
 ---

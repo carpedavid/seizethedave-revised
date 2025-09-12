@@ -1,9 +1,8 @@
 ---
 title: "snowman"
-pubDate: "2011-01-29"
+pubDate: 2011-01-29
 description: "snowman"
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---

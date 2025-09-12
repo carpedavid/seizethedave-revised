@@ -1,9 +1,8 @@
 ---
 title: "ink review: everflo blue-black"
-pubDate: "2011-01-11"
+pubDate: 2011-01-11
 description: "ink review: everflo blue-black"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "everflo"
   - "ink"

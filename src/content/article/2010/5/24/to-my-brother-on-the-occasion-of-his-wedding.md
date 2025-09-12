@@ -1,7 +1,9 @@
 ---
 title: "to my brother, on the occasion of his wedding"
-pubDate: "2010-05-24"
+pubDate: 2010-05-24
 description: "to my brother, on the occasion of his wedding"
+category: "post"
+tags: []
 ---
 
 I spent this weekend serving the role of best man at my brother’s wedding. He’s my only sibling, and with any luck, this will be his one and only marriage. His wife is a great woman, and I’m incredibly happy for them both. I’d like to share the toast that I gave at the reception with everyone here. Congratulations, Chris and Tracey!

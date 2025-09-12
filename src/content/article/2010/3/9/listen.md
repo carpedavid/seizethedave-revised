@@ -1,9 +1,9 @@
 ---
 title: "listen"
-pubDate: "2010-03-09"
+pubDate: 2010-03-09
 description: "listen"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 The trees are crying.
@@ -105,4 +105,3 @@ but for now they cry, and
 there is nothing I can do but
 
 listen.
-

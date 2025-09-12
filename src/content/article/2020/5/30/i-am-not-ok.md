@@ -1,9 +1,9 @@
 ---
 title: "I Am Not Ok"
-pubDate: "2020-05-31"
+pubDate: 2020-05-31
 description: "I Am Not Ok"
-categories:
-  - "poetry"
+category: "poetry"
+tags: []
 ---
 
 ![hear_no_evil.png](hear_no_evil.png)

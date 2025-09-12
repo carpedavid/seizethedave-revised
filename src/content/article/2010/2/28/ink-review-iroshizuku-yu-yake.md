@@ -1,9 +1,8 @@
 ---
 title: "ink review: iroshizuku yu yake"
-pubDate: "2010-02-28"
+pubDate: 2010-02-28
 description: "ink review: iroshizuku yu yake"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "ink"
   - "iroshizuku"

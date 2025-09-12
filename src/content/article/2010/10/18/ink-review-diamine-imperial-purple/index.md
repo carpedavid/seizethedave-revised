@@ -1,9 +1,8 @@
 ---
 title: "ink review: diamine imperial purple"
-pubDate: "2010-10-18"
+pubDate: 2010-10-18
 description: "ink review: diamine imperial purple"
-categories:
-  - "ink-reviews"
+category: "ink-reviews"
 tags:
   - "diamine"
   - "ink"

@@ -1,9 +1,8 @@
 ---
 title: "elephants are people too"
-pubDate: "2010-02-24"
+pubDate: 2010-02-24
 description: 'A poem about elephants'
-categories:
-  - "poetry"
+category: "poetry"
 tags:
   - "childrens-poetry"
 ---

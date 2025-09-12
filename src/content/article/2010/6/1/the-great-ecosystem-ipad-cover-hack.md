@@ -1,7 +1,8 @@
 ---
 title: "the great ecosystem ipad cover hack"
-pubDate: "2010-06-01"
+pubDate: 2010-06-01
 description: "the great ecosystem ipad cover hack"
+category: "post"
 tags:
   - "ecosystem"
   - "paper"

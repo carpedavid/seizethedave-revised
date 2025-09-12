@@ -2,7 +2,7 @@
 title: "how odd"
 pubDate: 2011-08-18
 description: "how odd"
-category: "post"
+category: "general"
 tags: []
 ---
 

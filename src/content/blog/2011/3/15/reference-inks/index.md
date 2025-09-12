@@ -2,7 +2,7 @@
 title: "reference inks"
 pubDate: 2011-03-15
 description: "reference inks"
-category: "post"
+category: "general"
 tags:
   - "ink"
 ---

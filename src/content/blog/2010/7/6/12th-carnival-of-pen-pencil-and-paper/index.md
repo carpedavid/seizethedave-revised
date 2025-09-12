@@ -2,7 +2,7 @@
 title: "12th Carnival of Pen, Pencil, and Paper"
 pubDate: 2010-07-06
 description: "12th Carnival of Pen, Pencil, and Paper"
-category: "post"
+category: "general"
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "my ink review queue"
 pubDate: 2010-10-28
 description: "my ink review queue"
-category: "post"
+category: "general"
 tags:
   - "ink"
 ---

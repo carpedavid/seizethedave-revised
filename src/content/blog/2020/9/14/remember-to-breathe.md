@@ -1,7 +1,7 @@
 ---
 title: "Remember to breathe"
 pubDate: 2020-09-14
-category: "post"
+category: "general"
 description: "Remember to breathe"
 tags: []
 ---

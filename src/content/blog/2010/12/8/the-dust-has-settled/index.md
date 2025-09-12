@@ -2,7 +2,7 @@
 title: "the dust has settled"
 pubDate: 2010-12-08
 description: "the dust has settled"
-category: "post"
+category: "general"
 tags: []
 ---
 

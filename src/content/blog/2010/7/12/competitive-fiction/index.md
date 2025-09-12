@@ -2,7 +2,7 @@
 title: "competitive fiction"
 pubDate: 2010-07-12
 description: "competitive fiction"
-category: "post"
+category: "general"
 tags:
   - "writing"
 ---

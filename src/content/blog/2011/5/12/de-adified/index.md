@@ -2,7 +2,7 @@
 title: "de-adified"
 pubDate: 2011-05-12
 description: "de-adified"
-category: "post"
+category: "general"
 tags: []
 ---
 

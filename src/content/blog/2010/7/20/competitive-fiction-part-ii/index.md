@@ -2,7 +2,7 @@
 title: "competitive fiction, part II"
 pubDate: 2010-07-20
 description: "competitive fiction, part II"
-category: "post"
+category: "general"
 tags:
   - "writing"
 ---

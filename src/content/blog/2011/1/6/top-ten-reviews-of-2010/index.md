@@ -2,7 +2,7 @@
 title: "top ten reviews of 2010"
 pubDate: 2011-01-06
 description: "top ten reviews of 2010"
-category: "post"
+category: "general"
 tags: []
 ---
 

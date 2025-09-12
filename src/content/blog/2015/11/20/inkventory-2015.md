@@ -2,7 +2,7 @@
 title: "Inkventory: 2015"
 pubDate: 2015-11-20
 description: "Inkventory: 2015"
-category: "post"
+category: "general"
 tags:
   - "ink"
 ---

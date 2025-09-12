@@ -2,7 +2,7 @@
 title: "What I've been up to..."
 pubDate: 2015-09-08
 description: "What I've been up to..."
-category: "post"
+category: "general"
 tags:
   - "maya"
 ---

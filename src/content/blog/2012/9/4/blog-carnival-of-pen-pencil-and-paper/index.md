@@ -2,7 +2,7 @@
 title: "blog carnival of pen, pencil, and paper"
 pubDate: 2012-09-04
 description: "blog carnival of pen, pencil, and paper"
-category: "post"
+category: "general"
 tags:
   - "carnival"
 ---

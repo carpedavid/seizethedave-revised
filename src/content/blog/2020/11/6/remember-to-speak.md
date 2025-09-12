@@ -1,7 +1,7 @@
 ---
 title: "Remember to speak"
 pubDate: 2020-11-06
-category: "post"
+category: "general"
 description: "Remember to speak"
 tags: []
 ---

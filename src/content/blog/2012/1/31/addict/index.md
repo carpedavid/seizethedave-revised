@@ -2,7 +2,7 @@
 title: "addict?"
 pubDate: 2012-01-31
 description: "addict?"
-category: "post"
+category: "general"
 tags: []
 ---
 

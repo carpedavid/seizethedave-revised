@@ -2,7 +2,7 @@
 title: "zoe keating"
 pubDate: 2010-07-02
 description: "zoe keating"
-category: "post"
+category: "general"
 tags:
   - "music"
 ---

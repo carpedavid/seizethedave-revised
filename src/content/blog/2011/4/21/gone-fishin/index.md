@@ -2,7 +2,7 @@
 title: "gone fishin'"
 pubDate: 2011-04-21
 description: "gone fishin'"
-category: "post"
+category: "general"
 tags: []
 ---
 

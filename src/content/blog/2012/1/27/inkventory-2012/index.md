@@ -2,7 +2,7 @@
 title: "inkventory 2012"
 pubDate: 2012-01-27
 description: "inkventory 2012"
-category: "post"
+category: "general"
 tags:
   - "ink"
 ---

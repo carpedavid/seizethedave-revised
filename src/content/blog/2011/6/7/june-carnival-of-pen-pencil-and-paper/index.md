@@ -2,7 +2,7 @@
 title: "june carnival of pen, pencil, and paper"
 pubDate: 2011-06-07
 description: "june carnival of pen, pencil, and paper"
-category: "post"
+category: "general"
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "What I'm Listening To"
 pubDate: 2016-01-28
 description: "What I'm Listening To"
-category: "post"
+category: "general"
 tags:
   - "podcast"
 ---

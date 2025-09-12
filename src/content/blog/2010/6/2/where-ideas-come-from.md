@@ -2,7 +2,7 @@
 title: "where ideas come from"
 pubDate: 2010-06-02
 description: "where ideas come from"
-category: "post"
+category: "general"
 tags:
   - "writing"
 ---

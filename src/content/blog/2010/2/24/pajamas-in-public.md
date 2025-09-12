@@ -2,7 +2,7 @@
 title: "pajamas in public"
 pubDate: 2010-02-24
 description: 'A short rant about pajamas'
-category: "post"
+category: "general"
 tags: []
 ---
 

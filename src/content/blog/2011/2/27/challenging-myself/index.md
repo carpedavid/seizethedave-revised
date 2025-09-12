@@ -2,7 +2,7 @@
 title: "challenging myself"
 pubDate: 2011-02-27
 description: "challenging myself"
-category: "post"
+category: "general"
 tags: []
 ---
 

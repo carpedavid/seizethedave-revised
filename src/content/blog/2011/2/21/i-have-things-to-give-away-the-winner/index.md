@@ -2,7 +2,7 @@
 title: "i have things to give away - the winner"
 pubDate: 2011-02-21
 description: "i have things to give away - the winner"
-category: "post"
+category: "general"
 tags: []
 ---
 

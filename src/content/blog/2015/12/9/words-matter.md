@@ -2,7 +2,7 @@
 title: "Words Matter"
 pubDate: 2015-12-09
 description: "Words Matter"
-category: "post"
+category: "general"
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Cappuccino Art"
 pubDate: 2018-01-27
-category: "post"
+category: "general"
 description: "Cappuccino Art"
 tags: []
 ---

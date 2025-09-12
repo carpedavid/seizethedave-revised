@@ -2,7 +2,7 @@
 title: "The Power of Intentional Change"
 pubDate: 2016-06-02
 description: "The Power of Intentional Change"
-category: "post"
+category: "general"
 tags:
   - "intentional-change"
 ---

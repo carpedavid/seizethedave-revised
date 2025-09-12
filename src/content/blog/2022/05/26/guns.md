@@ -1,7 +1,7 @@
 ---
 title: "Guns"
 pubDate: 2022-05-26
-category: "post"
+category: "general"
 description: "Guns"
 tags: []
 ---

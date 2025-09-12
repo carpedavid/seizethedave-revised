@@ -2,7 +2,7 @@
 title: "do your own thing"
 pubDate: 2010-11-22
 description: "do your own thing"
-category: "post"
+category: "general"
 tags: []
 ---
 

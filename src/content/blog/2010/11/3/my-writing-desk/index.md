@@ -2,7 +2,7 @@
 title: "my writing desk"
 pubDate: 2010-11-03
 description: "my writing desk"
-category: "post"
+category: "general"
 tags: []
 ---
 

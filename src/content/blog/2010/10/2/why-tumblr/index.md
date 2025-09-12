@@ -2,7 +2,7 @@
 title: "why tumblr?"
 pubDate: 2010-10-02
 description: "why tumblr?"
-category: "post"
+category: "general"
 tags:
   - "tumblr"
 ---

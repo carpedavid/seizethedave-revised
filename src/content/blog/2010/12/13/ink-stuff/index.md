@@ -2,7 +2,7 @@
 title: "ink stuff"
 pubDate: 2010-12-13
 description: "ink stuff"
-category: "post"
+category: "general"
 tags:
   - "ink"
 ---

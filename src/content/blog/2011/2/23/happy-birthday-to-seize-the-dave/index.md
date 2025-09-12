@@ -2,7 +2,7 @@
 title: "happy birthday, to seize the dave"
 pubDate: 2011-02-23
 description: "happy birthday, to seize the dave"
-category: "post"
+category: "general"
 tags: []
 ---
 

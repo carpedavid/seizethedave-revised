@@ -2,7 +2,7 @@
 title: "what’s in your pen?"
 pubDate: 2010-05-17
 description: "what’s in your pen?"
-category: "post"
+category: "general"
 tags: []
 ---
 

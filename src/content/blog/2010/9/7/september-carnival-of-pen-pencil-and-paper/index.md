@@ -2,7 +2,7 @@
 title: "september carnival of pen, pencil and paper"
 pubDate: 2010-09-07
 description: "september carnival of pen, pencil and paper"
-category: "post"
+category: "general"
 tags: []
 ---
 

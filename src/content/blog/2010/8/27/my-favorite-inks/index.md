@@ -2,7 +2,7 @@
 title: "my favorite inks"
 pubDate: 2010-08-27
 description: "my favorite inks"
-category: "post"
+category: "general"
 tags:
   - "ink"
 ---

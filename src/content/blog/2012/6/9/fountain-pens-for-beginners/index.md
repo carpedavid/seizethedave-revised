@@ -2,7 +2,7 @@
 title: "fountain pens for beginners"
 pubDate: 2012-06-09
 description: "fountain pens for beginners"
-category: "post"
+category: "general"
 tags:
   - "ink"
 ---

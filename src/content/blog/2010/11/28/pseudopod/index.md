@@ -2,7 +2,7 @@
 title: "pseudopod"
 pubDate: 2010-11-28
 description: "pseudopod"
-category: "post"
+category: "general"
 tags: []
 ---
 

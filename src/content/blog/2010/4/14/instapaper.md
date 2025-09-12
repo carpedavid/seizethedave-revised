@@ -2,7 +2,7 @@
 title: "instapaper"
 pubDate: 2010-04-14
 description: "instapaper"
-category: "post"
+category: "general"
 tags:
   - "apps"
 ---

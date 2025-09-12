@@ -2,7 +2,7 @@
 title: "carnival of pen, pencil, and paper, august edition"
 pubDate: 2010-08-03
 description: "carnival of pen, pencil, and paper, august edition"
-category: "post"
+category: "general"
 tags: []
 ---
 

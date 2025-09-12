@@ -2,7 +2,7 @@
 title: "books about calligraphy"
 pubDate: 2011-02-11
 description: "books about calligraphy"
-category: "post"
+category: "general"
 tags:
   - "calligraphy"
 ---

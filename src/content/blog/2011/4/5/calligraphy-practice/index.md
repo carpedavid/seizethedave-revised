@@ -2,7 +2,7 @@
 title: "calligraphy practice"
 pubDate: 2011-04-05
 description: "calligraphy practice"
-category: "post"
+category: "general"
 tags:
   - "calligraphy"
 ---

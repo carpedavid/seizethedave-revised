@@ -2,7 +2,7 @@
 title: "Why I write..."
 pubDate: 2015-09-16
 description: "Why I write..."
-category: "post"
+category: "general"
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "inky goodness"
 pubDate: 2011-02-25
 description: "inky goodness"
-category: "post"
+category: "general"
 tags:
   - "ink"
 ---

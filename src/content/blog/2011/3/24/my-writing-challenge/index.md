@@ -2,7 +2,7 @@
 title: "my writing challenge"
 pubDate: 2011-03-24
 description: "my writing challenge"
-category: "post"
+category: "general"
 tags:
   - "writing"
 ---

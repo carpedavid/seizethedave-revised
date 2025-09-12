@@ -2,7 +2,7 @@
 title: "diamine imperial purple water test"
 pubDate: 2010-11-28
 description: "diamine imperial purple water test"
-category: "post"
+category: "general"
 tags:
   - "diamine"
   - "ink"

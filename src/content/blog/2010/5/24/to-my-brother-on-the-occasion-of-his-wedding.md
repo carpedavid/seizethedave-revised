@@ -2,7 +2,7 @@
 title: "to my brother, on the occasion of his wedding"
 pubDate: 2010-05-24
 description: "to my brother, on the occasion of his wedding"
-category: "post"
+category: "general"
 tags: []
 ---
 

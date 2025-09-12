@@ -2,7 +2,7 @@
 title: "look what I won!"
 pubDate: 2010-05-10
 description: "look what I won!"
-category: "post"
+category: "general"
 tags:
   - "ink"
 ---

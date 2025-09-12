@@ -2,7 +2,7 @@
 title: "upcoming reviews"
 pubDate: 2011-01-24
 description: "upcoming reviews"
-category: "post"
+category: "general"
 tags: []
 ---
 

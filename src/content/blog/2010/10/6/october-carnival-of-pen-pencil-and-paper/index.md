@@ -1,7 +1,7 @@
 ---
 title: "october carnival of pen, pencil and paper"
 pubDate: 2010-10-06
-category: "post"
+category: "general"
 description: "october carnival of pen, pencil and paper"
 tags: []
 ---

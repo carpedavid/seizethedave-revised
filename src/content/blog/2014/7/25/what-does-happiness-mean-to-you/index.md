@@ -2,7 +2,7 @@
 title: "What does happiness mean to you?"
 pubDate: 2014-07-25
 description: "What does happiness mean to you?"
-category: "post"
+category: "general"
 tags:
   - "noodlers"
 ---

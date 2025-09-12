@@ -4,7 +4,7 @@ export default {
     copyright: "© 2025 David Garrett. Licensed for use under CC-BY 4.0", // Footer copyright text
     showAuthorsOnHomePage: false, // Display author info on homepage
     showFeaturrdPostsOnHomePage: true, // Show featured posts section on homepage
-    showCategoryOnPosts: true, // Display categories on posts in homepage
+    showCategoryOnPosts: false, // Display categories on posts in homepage
     labels: {
         featuredPosts: "Featured Posts", // Title for featured posts section
         latestPosts: "Latest Posts", // Title for latest posts section
@@ -36,7 +36,7 @@ export default {
     showReadMoreLinkOnFeaturedPosts: true, // Show "Read More" on featured cards
     showThumbnailOnFeaturedPosts: true, // Display thumbnails on featured posts
     numberOfLatestPostsOnHomePage: 6, // Number of latest posts on homepage
-    numberOfBlogPostsPerPage: 8, // Number of posts per paginated blog
+    numberOfBlogPostsPerPage: 20, // Number of posts per paginated blog
 
     gTag: "G-LZRVX1EQCJ" // Google Analytics tracking ID
 }

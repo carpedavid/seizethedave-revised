@@ -2,7 +2,7 @@
 title: "j herbin 1670 in flex nib"
 pubDate: 2010-12-20
 description: "j herbin 1670 in flex nib"
-category: "post"
+category: "general"
 tags:
   - "ink"
   - "j-herbin"

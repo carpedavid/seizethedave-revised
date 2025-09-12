@@ -2,7 +2,7 @@
 title: "welcome to blogger"
 pubDate: 2010-12-06
 description: "welcome to blogger"
-category: "post"
+category: "general"
 tags: []
 ---
 

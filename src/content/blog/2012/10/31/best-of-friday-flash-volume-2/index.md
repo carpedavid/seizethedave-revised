@@ -2,7 +2,7 @@
 title: "best of friday flash, volume 2"
 pubDate: 2012-10-31
 description: "best of friday flash, volume 2"
-category: "post"
+category: "general"
 tags: []
 ---
 

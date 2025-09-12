@@ -1,7 +1,7 @@
 import { defineCollection, z } from 'astro:content';
 import SiteOptions from "../site.config.mjs"
 
-const articleCollection = defineCollection({
+const blogCollection = defineCollection({
     type: 'content',
     schema: z.object({
         title: z.string(),
@@ -17,5 +17,5 @@ const articleCollection = defineCollection({
 });
 
 export const collections = {
-    article: articleCollection,
+    blog: blogCollection,
 };

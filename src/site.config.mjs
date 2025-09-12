@@ -31,7 +31,7 @@ export default {
     defaultAuthorName: "David Garrett",
     showCategoriesLinkOnFooter: true, // Show Categories link in footer
     showTagsLinkOnFooter: true, // Show Tags link in footer
-    showAuthorsLinkOnFooter: true, // Show Authors link in footer
+    showAuthorsLinkOnFooter: false, // Show Authors link in footer
     showSimilarPosts: true, // Display similar posts on article pages
     showReadMoreLinkOnFeaturedPosts: true, // Show "Read More" on featured cards
     showThumbnailOnFeaturedPosts: true, // Display thumbnails on featured posts

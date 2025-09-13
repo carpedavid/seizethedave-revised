@@ -8,9 +8,7 @@ tags:
   - "red-ink"
 ---
 
-![Noodler's Berning Red](noodler's-berning-red.jpg)
-
-Noodler's Berning Red
+![Noodler's Berning Red](noodlers-berning-red.jpg)
 
 It’s an immutable karmic law that, when an ink producer creates a new color specifically to mock a presidential candidate, one then must use said ink to write the candidate’s campaign slogan, regardless of how one actually feels about said candidate. In this case, Nathan Tardiff, the man behind the curtain of Noodler’s Ink, created Berning Red in honor of Bernie Sanders, the democratic socialist senator from Vermont, and one of the two remaining candidates for the Democratic nomination. The tagline for the ink is “a red for lefties that dries fast.” Because Sanders is a socialist, he’s a lefty on the American political spectrum, and left-handed writers need a quick drying ink - get it? Also red, because red is equated with socialism, as evidenced by the Soviet-propogada-inspired label.
 

@@ -37,7 +37,7 @@ const { category, posts } = Astro.props;
   title={`${category} Articles - ${SiteOptions.siteTitle}`}
   description={`Articles in the ${category} category`}
 >
-  <Header showTitle={false} />
+  <Header />
 
   <!-- Light Horizontal Bar -->
   <hr class="border-t border-gray-200 dark:border-gray-700 my-8" />
@@ -61,7 +61,7 @@ const { category, posts } = Astro.props;
       posts.length > 0 ? (
         <ul class="space-y-4">
           {posts.map((post) => (
-            <PostCard post={post} />
+            <PostCard post={post} showCategory={false} />
           ))}
         </ul>
       ) : (

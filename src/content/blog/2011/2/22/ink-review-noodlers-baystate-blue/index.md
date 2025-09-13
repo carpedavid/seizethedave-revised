@@ -1,8 +1,9 @@
 ---
 title: "ink review: noodler's baystate blue"
 pubDate: 2011-02-22
-description: "ink review: noodler's baystate blue"
+description: "A detailed review of Noodler's Baystate Blue ink."
 category: "ink-reviews"
+featured: true
 tags:
   - "ink"
   - "noodlers"

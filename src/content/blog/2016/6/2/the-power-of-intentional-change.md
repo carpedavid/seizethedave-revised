@@ -1,8 +1,9 @@
 ---
 title: "The Power of Intentional Change"
 pubDate: 2016-06-02
-description: "The Power of Intentional Change"
+description: "Change is scary, but Intentional Change doesn’t have to be."
 category: "general"
+featured: true
 tags:
   - "intentional-change"
 ---

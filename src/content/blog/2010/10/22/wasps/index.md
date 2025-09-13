@@ -3,6 +3,7 @@ title: "wasps"
 pubDate: 2010-10-22
 description: "wasps"
 category: "short-stories"
+featured: true
 tags:
   - "flash-fiction"
   - "horror"

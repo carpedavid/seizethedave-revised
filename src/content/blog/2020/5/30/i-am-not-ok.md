@@ -1,9 +1,10 @@
 ---
 title: "I Am Not Ok"
 pubDate: 2020-05-31
-description: "I Am Not Ok"
+description: "It’s been a while since I’ve shared my creativity publicly, but this seems like the right time. It’s helping me process. Maybe it will help someone to understand. "
 category: "poetry"
-tags: []
+featured: true
+tags: ["violence"]
 ---
 
 ![hear_no_evil.png](hear_no_evil.png)

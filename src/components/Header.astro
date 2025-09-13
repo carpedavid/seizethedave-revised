@@ -7,7 +7,7 @@ export interface Props {
 const { showTitle = true } = Astro.props;
 ---
 
-<header class="flex flex-col items-center mt-10 mb-8 relative">
+<header class="flex flex-row items-center mt-10 mb-8 relative">
   <!-- Theme Toggle Button -->
   <button
     onclick="toggleTheme()"
@@ -47,16 +47,40 @@ const { showTitle = true } = Astro.props;
     </svg>
   </button>
 
-  <a href="/" class="flex flex-col items-center">
-    <img src="/images/logo.svg" alt={SiteOptions.siteTitle} />
-    {
-      showTitle && (
-        <>
-          <p class="text-lg text-gray-500 dark:text-gray-400 font-light text-center">
-            {SiteOptions.siteSubTitle}
-          </p>
-        </>
-      )
-    }
-  </a>
+    <nav class="">
+    <div class="flex items-center justify-center space-x-8 text-sm">
+        <a href="/" class="flex flex-col items-center">
+          <img src="/images/logo.svg" alt={SiteOptions.siteTitle} />
+          {
+            showTitle && (
+              <>
+                <p class="text-lg text-gray-500 dark:text-gray-400 font-light text-center">
+                  {SiteOptions.siteSubTitle}
+                </p>
+              </>
+            )
+          }
+        </a>
+      
+        <a href="/about" class="text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-slate-100 transition-colors font-medium">
+          About
+        </a>
+        <a href="https://amalara.com" class="text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-slate-100 transition-colors font-medium">
+          Amalara
+        </a>          
+        <a href="/blog" class="text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-slate-100 transition-colors font-medium">
+          Blog
+        </a>        
+        <a href="/cv" class="text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-slate-100 transition-colors font-medium">
+          CV
+        </a>
+        <a href="/uses" class="text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-slate-100 transition-colors font-medium">
+          Uses
+        </a>
+    </div>
+  </nav>
+
+
+
+
 </header>

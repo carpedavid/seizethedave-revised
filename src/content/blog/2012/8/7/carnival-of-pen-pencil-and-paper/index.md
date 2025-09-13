@@ -2,7 +2,7 @@
 title: "carnival of pen, pencil, and paper"
 pubDate: 2012-08-07
 description: "carnival of pen, pencil, and paper"
-category: "general"
+category: "carnival"
 tags: []
 ---
 

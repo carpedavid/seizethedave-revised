@@ -2,10 +2,9 @@
 title: "paper review: behance dot grid journal"
 pubDate: 2010-07-07
 description: "paper review: behance dot grid journal"
-category: "general"
+category: "paper-reviews"
 tags:
   - "paper"
-  - "paper-reviews"
 ---
 
 Rating: 2.0

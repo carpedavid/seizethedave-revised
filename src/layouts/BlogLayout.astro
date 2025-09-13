@@ -52,6 +52,17 @@ const { title = SiteOptions.siteTitle, description = SiteOptions.siteSubTitle } 
         gtag("config", gTag);
       </script>
     )}
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+  <script type="text/javascript">
+    algoliasearchNetlify({
+      appId: 'Y46VPHWIO9',
+      apiKey: 'e2d2b67508d8f1b99d4444943029c753',
+      siteId: '4c7dba9e-b76d-4f5f-9e0c-8accb00668b0',
+      branch: 'main',
+      selector: 'div#search',
+    });
+  </script>
   </head>
 
   <body class="bg-white text-gray-900 dark:bg-slate-900 dark:text-slate-200 transition-colors duration-300 min-h-full">

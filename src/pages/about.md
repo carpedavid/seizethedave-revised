@@ -1,6 +1,6 @@
 ---
 title: "About Dave"
-date: 2021-10-04
+pubDate: 2021-10-04
 layout: "../layouts/PageLayout.astro"
 ---
 

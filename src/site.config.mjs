@@ -3,10 +3,13 @@ export default {
     siteSubTitle: "A little bit about a lot of stuff", // Subtitle shown under main title
     copyright: "© 2025 David Garrett. Licensed for use under CC-BY 4.0", // Footer copyright text
     showAuthorsOnHomePage: false, // Display author info on homepage
-    showFeaturrdPostsOnHomePage: true, // Show featured posts section on homepage
-    showCategoryOnPosts: false, // Display categories on posts in homepage
+    showFeaturrdPostsOnHomePage: false, // Show featured posts section on homepage
+    showFeaturrdCategoriesOnHomePage: true, // Show featured categories section on homepage
+    featuredCategories: ["ink-reviews","poetry","short-stories"],    
+    showCategoryOnPosts: true, // Display categories on posts in homepage
     labels: {
         featuredPosts: "Featured Posts", // Title for featured posts section
+        featuredCategories: "Featured Categories", // Title for featured categories section        
         latestPosts: "Latest Posts", // Title for latest posts section
         viewAllPosts: "View All Posts", // Text for link to paginated blog
         backToHome: "Back to Home", // Back navigation text

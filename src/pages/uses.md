@@ -14,9 +14,7 @@ layout: "../layouts/PageLayout.astro"
 
 ## 👨🏽‍🎨 Create and Design
 
-* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - For vector-based illustration and design.
-* [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) - For desktop publishing.
-* [Affinity Photo](https://affinity.serif.com/en-us/photo/) - For photo editing and manipulation.
+* [Affinity Studio](https://www.affinity.studio/) - The best Adobe competitor on the market.
 * [Obsidian](https://obsidian.md/) - Markdown-based writing and note-taking tool.
 * [Figma](https://www.figma.com) - UX design and prototyping.
 
@@ -31,6 +29,7 @@ layout: "../layouts/PageLayout.astro"
 ## 🖥 Typography
 
 * [Blambot](https://blambot.com/) - All the comic fonts you will ever need. But for reals, this time.
+* [Brandon Nickerson](https://www.bnicks.com/) - A tremendous collection of versitile fonts.
 * [Floodfonts](https://www.floodfonts.com/) - By Felix Braden.
 * [Harbor Type](https://www.harbortype.com/) - A small but amazing collection.
 * [Mark Simonson](https://www.marksimonson.com/) - Proxima Nova and other fonts that aren't Proxima Nova.
@@ -38,19 +37,15 @@ layout: "../layouts/PageLayout.astro"
 ## 🖌 Everything Else
 
 * [1Password](https://1password.com/) - Everyone should be using a password manager.
-* [AltTab](https://alt-tab-macos.netlify.app/) - It's CMD-Tab, but BETTER! SO MUCH BETTER!
-* [Drafts](https://getdrafts.com/) - Writing notebook. Where ideas go to germinate. It integrates really well with Shortcuts on MacOS.
+* [TabTab](https://tabtabapp.net/) - I used to use AltTab, but now I use TabTab. I really like its UX choices.
+* [Capture](https://www.sir.studio/capture) - A newer note-taking app that grabs your ideas and gets out of the way.
 * [Homebrew](https://brew.sh) - The missing MacOS package manager.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Menu-bar based performance statistics.
 * [Keka](https://www.keka.io/en/) - File archiving and unarchiving.
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Ever wonder what your apps are connecting to while you're not looking? Little Snitch will tell you.
-* [MacUpdater](https://www.corecode.io/macupdater/) - It, well...it keeps your apps up to date.
 * [Mela](https://mela.recipes/) - I resisted a dedicated recipe manager for ages. Mela showed me how mistaken I was.
-* [PDF Expert](https://pdfexpert.com/) - The absolute best PDF reader/annotator/editor for MacOS.
 * [Paste](https://pasteapp.io/) - If you copy *and* you paste, you want a clipboard manager. Paste is currently my favorite.
 * [Raycast](https://raycast.com/) - Scriptable, extensible app launcher geared to developers.
-* [Rocket](https://matthewpalmer.net/rocket/) - Do you wish there were a system-wide Slack-like way to use emoji? The correct answer is yes. Yes, you do. The answer is Rocket.
-* [Unclack](https://unclack.app/) - It mutes your microphone when you type (but only when you type), so you're not that annoying person making clacky noises in Zoom calls.
 
 ## 🕸️ This Site
 

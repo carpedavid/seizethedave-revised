@@ -1,6 +1,6 @@
 ---
 title: "CV"
-pubDate: 2022-02-23
+pubDate: 2026-01-17
 layout: "../layouts/PageLayout.astro"
 ---
 
@@ -18,6 +18,14 @@ I am a transformative leader with nearly two decades of experience driving posit
 Strategic Planning, Organizational Development, Information Technology, Technical Innovation, Product Development, Software Engineering, Portfolio and Project Management, Continuous Improvement, Quality Management, Operations
 
 ## Employment History
+
+**VE Solutions, Software Manager**, January 2025 — Present
+
+**VE Solutions, Senior Software Engineer**, September 2022 — December 2024
+
+Building the software and services that power the vending and micromarket industries.
+
+- Developed product specifications and architecture for stored value solution
 
 **GlobalCastMD, Chief Technology Officer**, July 2021 — February 2022
 
@@ -149,8 +157,8 @@ Oversaw aggregation and development of a nation-wide criminal, sex offender, and
 
 ## Technical Skills
 
-- **Fluent:** C#, Python, Php, Swift, Go, Microsoft SQL Server, PostgreSQL, MySQL, IIS, Nginx, Laravel, ASP.net, Wordpress, AWS
-- **Learning:** React, Rust
+- **Fluent:** C#, React, Python, Php, Swift, Go, Microsoft SQL Server, PostgreSQL, MySQL, Redis, InfluxDB, IIS, Nginx, Laravel, ASP.net, Wordpress, AWS
+- **Learning:** Rust
 
 ## Education
 

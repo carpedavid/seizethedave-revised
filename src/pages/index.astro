@@ -17,6 +17,16 @@ const sortedPosts = allPosts.sort(
 // Get featured posts
 const featuredPosts = allPosts.filter((post) => post.data.featured).slice(0, 3);
 
+const allCategories = [
+  ...new Set(allPosts.map((post) => post.data.category)),
+].filter(c => SiteOptions.featuredCategories.includes(c)).sort();
+
+// Count posts per category
+const categoryCounts = allCategories.map((category) => ({
+  name: category,
+  count: allPosts.filter((post) => post.data.category === category).length,
+}));
+
 // Get latest posts for homepage (limit to 6)
 const latestPosts = sortedPosts.slice(
   0,
@@ -30,6 +40,43 @@ const showCategory = SiteOptions.showCategoryOnPosts || false;
 
   <!-- Light Horizontal Bar -->
   <hr class="border-t border-gray-200 dark:border-gray-700 my-8" />
+
+  <!-- Fetured Categories -->
+
+  {
+    SiteOptions.showFeaturrdCategoriesOnHomePage && allCategories.length > 0 && (
+      <section class="mb-16">
+        {SiteOptions.labels.featuredCategories && (
+          <h2 class="text-2xl font-semibold mb-8 text-center">
+            {SiteOptions.labels.featuredCategories}
+          </h2>
+        )}
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      {
+        categoryCounts.map(({ name, count }) => (
+          <a
+            href={`/category/${name.toLowerCase().replace(/\s+/g, "-")}`}
+            class="bg-gray-50 dark:bg-slate-800 rounded-lg p-6 hover:bg-gray-100 dark:hover:bg-slate-700 transition-colors border border-gray-200 dark:border-gray-700 group"
+          >
+            <div class="flex items-center justify-between mb-2">
+              <h3 class="text-xl font-semibold text-gray-900 dark:text-slate-100 group-hover:text-gray-700 dark:group-hover:text-slate-200 transition-colors">
+                {name}
+              </h3>
+              <span class="text-sm text-gray-500 dark:text-gray-400 bg-gray-200 dark:bg-slate-600 px-3 py-1 rounded-full font-medium">
+                {count}
+              </span>
+            </div>
+            <p class="text-sm text-gray-600 dark:text-gray-400">
+              {count === 1 ? "1 article" : `${count} articles`} in this category
+            </p>
+          </a>
+        ))
+      }
+        </div>
+        <hr class="border-t border-gray-200 dark:border-gray-700 my-12" />
+      </section>
+    )
+  }
 
   <!-- Featured Blog Posts -->
 
